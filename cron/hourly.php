@@ -76,20 +76,38 @@ foreach ($avatars as $login => $avatarConfig) {
     echo "\n";
     echo 'Rivals', "\n";
     echo '------', "\n";
-    foreach ($rivals as $rival) {
-        echo getColoredString($rival->NAME, 'yellow'), ', Level ', getColoredString($rival->LV, 'yellow');
-        echo ' ... ';
+    $energy = $avatar->ENGY;
+    if ($energy > 0) {
+        foreach ($rivals as $rival) {
+            echo getColoredString($rival->NAME, 'yellow'), ', Level ', getColoredString($rival->LV, 'yellow');
+            echo ' ... ';
 
-        /*
-        $content    = 'CTT={"RSLT":{"ATKDNM":"","DEFHP":["'.$rival->HP.'"],"DEF":["'.$rival->KEY.'"],"DEFNM":"'.$rival->NAME.'","DSKN":1,"DEFEX":[],"ASKN":5,"ATKHP":[],"DEFT":"","WIN":true,"ATKNM":"'.$login.'","LST":[],"ATKT":"","ATKEX":[],"DEFDNM":"","ATK":["'.$avatar->KEY.'","2","4","9"],"RTYPE":1},"TS":'.$TS.'}&CRC=bfcdd82c4b869a9878d22af6b99ee5bc';
-        $content    = 'CTT={"RSLT":{"ATKDNM":"","DEFHP":["297"],"DEF":["agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYr77C9wIM"],"DEFNM":"zel-ay","DSKN":1,"DEFEX":[],"ASKN":5,"ATKHP":["358","97","260","326"],"DEFT":"","WIN":true,"ATKNM":"neolao10","LST":[],"ATKT":"","ATKEX":[],"DEFDNM":"","ATK":["agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY_sGuuwMM","2","4","9"],"RTYPE":1},"TS":1354740644108}&CRC=bfcdd82c4b869a9878d22af6b99ee5bc';
-        $response   = requestPost('http://avafight.appspot.com/upload_rcd?ACT=2', $content, 'JSESSIONID='.$cookie);
-        $headers    = $response['headers'];
-        $result     = $response['result'];
+            $content    = 'CTT={"RSLT":{"ATKDNM":"","DEFHP":["297"],"DEF":["'.$rival->KEY.'"],"DEFNM":"'.$rival->NAME.'","DSKN":1,"DEFEX":[],"ASKN":5,"ATKHP":["358","97","260","326"],"DEFT":"","WIN":true,"ATKNM":"'.$login.'","LST":[{"R":"a_0","A":20},{"R":"a_0","A":2,"P":"10"},{"R":"a_1","A":20},{"R":"a_2","A":20},{"R":"a_3","A":20},{"R":"d_0","A":20},{"R":"a_0","A":4,"P":"d_0"},{"R":"d_0","A":10,"P":"51"},{"R":"a_0","A":9},{"R":"a_3","A":4,"P":"d_0"},{"R":"d_0","A":10,"P":"45"},{"R":"a_3","A":9},{"R":"a_1","A":4,"P":"d_0"},{"R":"d_0","A":10,"P":"7"},{"R":"a_1","A":9},{"R":"a_2","A":4,"P":"d_0"},{"R":"d_0","A":10,"P":"36"},{"R":"a_2","A":9},{"R":"d_0","A":4,"P":"a_0"},{"R":"a_0","A":5},{"R":"d_0","A":9},{"R":"a_0","A":120,"P":"aa_0"},{"R":"aa_0","A":20,"P":"neolao7"},{"R":"a_2","A":4,"P":"d_0"},{"R":"d_0","A":10,"P":"38"},{"R":"a_2","A":9},{"R":"d_0","A":4,"P":"a_0"},{"R":"a_0","A":10,"P":"41"},{"R":"a_0","A":22,"P":"10"},{"R":"d_0","A":9},{"R":"aa_0","A":2,"P":"1"},{"R":"aa_0","A":107,"P":"d_0"},{"R":"d_0","A":10,"P":"120"},{"R":"d_0","A":12}],"ATKT":"","ATKEX":[{"HP":359,"TYPE":3,"SKN":5,"NAME":"neolao7","KEY":"agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY9uaeuwMM"}],"DEFDNM":"","ATK":["agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY_sGuuwMM","2","4","9"],"RTYPE":1},"TS":1354740644108}&CRC=bfcdd82c4b869a9878d22af6b99ee5bc';
+            $response   = requestPost('http://avafight.appspot.com/upload_rcd?ACT=2', $content, 'JSESSIONID='.$cookie);
+            $headers    = $response['headers'];
+            $result     = $response['result'];
 
-        var_dump($result);
-        */
+            file_put_contents(dirname(__FILE__).'/../logs/'.$rival->NAME.'.txt', var_export($rival, true));
+            file_put_contents(dirname(__FILE__).'/../logs/'.$rival->NAME.'_fight.txt', var_export($result, true));
 
-        echo "\n";
+
+            // Result
+            $info = $result->MAIN->RSLT;
+            echo 'ID ', getColoredString($info->ID, 'yellow');
+            echo ', EXP ', getColoredString($info->EXP, 'yellow');
+            echo ', GOLD ', getColoredString($info->GLD, 'yellow');
+            echo ', TAX ', getColoredString($info->TAX, 'yellow');
+
+            echo "\n";
+
+            $energy--;
+            if ($energy <= 0) {
+                break;
+            }
+        }
+    } else {
+        echo getColoredString('No energy', 'yellow'), "\n";
     }
 }
+
+echo "\n";
