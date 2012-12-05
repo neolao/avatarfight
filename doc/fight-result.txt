@@ -1,0 +1,1551 @@
+object(stdClass)#1 (2) {
+  ["MAIN"]=>
+  object(stdClass)#37 (1) {
+    ["ERR"]=>
+    int(351)
+  }
+  ["HB"]=>
+  object(stdClass)#188 (3) {
+    ["NWM"]=>
+    array(34) {
+      [0]=>
+      object(stdClass)#187 (4) {
+        ["MSG"]=>
+        string(193) "Must have -> JOIN Holstenclub1 !!!
+
+• 3 crystal 1 gem mine
+• 48 members
+• cheap prices
+• short waiting lists
+• daily auctions (weapons, armor)
+
+• english and german speaking members"
+        ["DATE"]=>
+        float(1354742445922)
+        ["FROM"]=>
+        object(stdClass)#186 (5) {
+          ["LV"]=>
+          int(30)
+          ["NAME"]=>
+          string(12) "kampfnase110"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYqsCapQIM"
+          ["SKIN"]=>
+          int(10)
+          ["LOC"]=>
+          string(2) "DE"
+        }
+        ["KEY"]=>
+        string(53) "1354742445922agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYqsCapQIM"
+      }
+      [1]=>
+      object(stdClass)#185 (4) {
+        ["MSG"]=>
+        string(177) "SUP EVERYONE!!!
+
+Join [DESTROYERZ]
+
+# 43 Awesome Members
+# 2 Mines
+# 50% Off Crystals For Lvl 45+
+# 1600+ Rep
+# Need More Strong Lvl 30+ 
+
+So Come Join :) We Are Growing Fast XD"
+        ["DATE"]=>
+        float(1354742418593)
+        ["FROM"]=>
+        object(stdClass)#184 (5) {
+          ["LV"]=>
+          int(44)
+          ["NAME"]=>
+          string(15) "im-2-good-4-u-2"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY4bjH0wEM"
+          ["SKIN"]=>
+          int(30)
+          ["LOC"]=>
+          string(2) "NZ"
+        }
+        ["KEY"]=>
+        string(53) "1354742418593agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY4bjH0wEM"
+      }
+      [2]=>
+      object(stdClass)#183 (4) {
+        ["MSG"]=>
+        string(171) "Just saying i love the new update love the new bunny outfit its sooooooo cute makes me want to play more just to see the background and my avatar!!!  love it thanks AFO!!!"
+        ["DATE"]=>
+        float(1354742393410)
+        ["FROM"]=>
+        object(stdClass)#182 (5) {
+          ["LV"]=>
+          int(38)
+          ["NAME"]=>
+          string(17) "Mizz Rated XXX :)"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYwa304wEM"
+          ["SKIN"]=>
+          int(42)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354742393410agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYwa304wEM"
+      }
+      [3]=>
+      object(stdClass)#181 (4) {
+        ["MSG"]=>
+        string(12) "join <{:[]}~"
+        ["DATE"]=>
+        float(1354742259210)
+        ["FROM"]=>
+        object(stdClass)#180 (5) {
+          ["LV"]=>
+          int(32)
+          ["NAME"]=>
+          string(12) "Ayden Niggie"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYov-xhAMM"
+          ["SKIN"]=>
+          int(40)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354742259210agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYov-xhAMM"
+      }
+      [4]=>
+      object(stdClass)#179 (4) {
+        ["MSG"]=>
+        string(48) "I like Delia and join []°[] to get free things "
+        ["DATE"]=>
+        float(1354742248496)
+        ["FROM"]=>
+        object(stdClass)#178 (5) {
+          ["LV"]=>
+          int(27)
+          ["NAME"]=>
+          string(5) "¥U§"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYxPjNvAMM"
+          ["SKIN"]=>
+          int(17)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354742248496agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYxPjNvAMM"
+      }
+      [5]=>
+      object(stdClass)#177 (4) {
+        ["MSG"]=>
+        string(116) "Join The Exorcists. We are a brand new guild with admin spots open! We aim to be a threat and compete with any guild"
+        ["DATE"]=>
+        float(1354742198490)
+        ["FROM"]=>
+        object(stdClass)#176 (5) {
+          ["LV"]=>
+          int(31)
+          ["NAME"]=>
+          string(11) "Exorcist 85"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYmJao0AIM"
+          ["SKIN"]=>
+          int(37)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354742198490agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYmJao0AIM"
+      }
+      [6]=>
+      object(stdClass)#175 (4) {
+        ["MSG"]=>
+        string(195) "LOOKING FOR LVL 40+
+JOIN TAYLOR_GANG
+RANK TOP 400
+5 crystal mines
+1 gem mine
+Green free blue 100 orange 80 purp/gem 150 total
+Open bid list on upgraded weapons & armor
+NO WAITING LIST FOR PURPLES"
+        ["DATE"]=>
+        float(1354742156670)
+        ["FROM"]=>
+        object(stdClass)#174 (5) {
+          ["LV"]=>
+          int(42)
+          ["NAME"]=>
+          string(10) "mrsrdozier"
+          ["KEY"]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYmOquagw"
+          ["SKIN"]=>
+          int(25)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(52) "1354742156670agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYmOquagw"
+      }
+      [7]=>
+      object(stdClass)#173 (4) {
+        ["MSG"]=>
+        string(120) "still looking for an admin for shabba ranks. 
+check out the guild to see if you want to be admin. 
+would like a 40+ plus"
+        ["DATE"]=>
+        float(1354742088130)
+        ["FROM"]=>
+        object(stdClass)#172 (5) {
+          ["LV"]=>
+          int(42)
+          ["NAME"]=>
+          string(13) "chris tomkins"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY1vnRkwIM"
+          ["SKIN"]=>
+          int(37)
+          ["LOC"]=>
+          string(2) "GB"
+        }
+        ["KEY"]=>
+        string(53) "1354742088130agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY1vnRkwIM"
+      }
+      [8]=>
+      object(stdClass)#171 (4) {
+        ["MSG"]=>
+        string(198) "Join TotenKopfRitter
+Hilft Mir und mein 2 anderen acc die gilde aufzubauen...
+Spenden.ist keine muss aber wäre schön wenn ihr das macht...
+Level ist egal Join uns einfach und seid oft online 
+MFG "
+        ["DATE"]=>
+        float(1354742060996)
+        ["FROM"]=>
+        object(stdClass)#170 (5) {
+          ["LV"]=>
+          int(34)
+          ["NAME"]=>
+          string(10) "ZiehLeiiin"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYsNqcxgIM"
+          ["SKIN"]=>
+          int(33)
+          ["LOC"]=>
+          string(2) "DE"
+        }
+        ["KEY"]=>
+        string(53) "1354742060996agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYsNqcxgIM"
+      }
+      [9]=>
+      object(stdClass)#169 (4) {
+        ["MSG"]=>
+        string(16) "i like boobs lol"
+        ["DATE"]=>
+        float(1354742051653)
+        ["FROM"]=>
+        object(stdClass)#168 (5) {
+          ["LV"]=>
+          int(29)
+          ["NAME"]=>
+          string(6) "chauyn"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYgpH08gEM"
+          ["SKIN"]=>
+          int(6)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354742051653agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYgpH08gEM"
+      }
+      [10]=>
+      object(stdClass)#167 (4) {
+        ["MSG"]=>
+        string(173) "hello everyone plz join this new guild world raiders need mats then i will have my first mine i had 20 members before my gay admin kicked the all so plz help me rise back up"
+        ["DATE"]=>
+        float(1354742021577)
+        ["FROM"]=>
+        object(stdClass)#166 (5) {
+          ["LV"]=>
+          int(33)
+          ["NAME"]=>
+          string(11) "bluestar667"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYzuXwzwIM"
+          ["SKIN"]=>
+          int(36)
+          ["LOC"]=>
+          string(2) "CA"
+        }
+        ["KEY"]=>
+        string(53) "1354742021577agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYzuXwzwIM"
+      }
+      [11]=>
+      object(stdClass)#165 (4) {
+        ["MSG"]=>
+        string(156) "hallå allihopa svenskar som vill Joina en asbra Guild
+
+om ni vill det så ska ni Joina den nya guilden TheShrimps jag lovar er ni kommer inte ångra er : )"
+        ["DATE"]=>
+        float(1354741881800)
+        ["FROM"]=>
+        object(stdClass)#164 (5) {
+          ["LV"]=>
+          int(33)
+          ["NAME"]=>
+          string(14) "TheBigShrimp00"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYwb_25QIM"
+          ["SKIN"]=>
+          int(39)
+          ["LOC"]=>
+          string(2) "SE"
+        }
+        ["KEY"]=>
+        string(53) "1354741881800agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYwb_25QIM"
+      }
+      [12]=>
+      object(stdClass)#163 (4) {
+        ["MSG"]=>
+        string(189) "Bonjour les ✨〽ister✨recrute:
+
+⚫4 mines & pas cher.
+⚫Lvl 25+ bien équipé.
+⚫Joueurs Loyaux et Convivial.
+⚫Leader 42 et +de 40 membres.
+
+Alors n'hesitez plus, rejoignez nous ;)"
+        ["DATE"]=>
+        float(1354741857658)
+        ["FROM"]=>
+        object(stdClass)#162 (5) {
+          ["LV"]=>
+          int(33)
+          ["NAME"]=>
+          string(8) "NessMyst"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYkqvr4AIM"
+          ["SKIN"]=>
+          int(25)
+          ["LOC"]=>
+          string(2) "FR"
+        }
+        ["KEY"]=>
+        string(53) "1354741857658agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYkqvr4AIM"
+      }
+      [13]=>
+      object(stdClass)#161 (4) {
+        ["MSG"]=>
+        string(130) "NEED AN AWESOME GUILD
+JOIN €0M@
+ACTIVE MEMBERS
+FREE CRYSTALS FOR LVL 32+
+FREE GEMS FOR LVL 35+
+ANY LEVEL WELCOME
+JOIN NOW
+€0M@"
+        ["DATE"]=>
+        float(1354741815998)
+        ["FROM"]=>
+        object(stdClass)#160 (5) {
+          ["LV"]=>
+          int(38)
+          ["NAME"]=>
+          string(12) "samuraininja"
+          ["KEY"]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIY87COHww"
+          ["SKIN"]=>
+          int(40)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(52) "1354741815998agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIY87COHww"
+      }
+      [14]=>
+      object(stdClass)#159 (4) {
+        ["MSG"]=>
+        string(61) "looking for some avatars to join my guild the Persian empire "
+        ["DATE"]=>
+        float(1354741777498)
+        ["FROM"]=>
+        object(stdClass)#158 (5) {
+          ["LV"]=>
+          int(38)
+          ["NAME"]=>
+          string(12) "helpless man"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY9azFqAEM"
+          ["SKIN"]=>
+          int(33)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354741777498agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY9azFqAEM"
+      }
+      [15]=>
+      object(stdClass)#156 (4) {
+        ["MSG"]=>
+        string(176) "| PÄNDÄRÏA |
+
+→ 1 member -_-
+
+→ the guild is new
+
+→ join at least 10 members
+
+→ hi, bye and I will hope to see you there! :)
+
+(well im praying that I see you there) "
+        ["DATE"]=>
+        float(1354741747537)
+        ["FROM"]=>
+        object(stdClass)#157 (5) {
+          ["LV"]=>
+          int(32)
+          ["NAME"]=>
+          string(6) "†aya"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYpP77oQIM"
+          ["SKIN"]=>
+          int(18)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354741747537agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYpP77oQIM"
+      }
+      [16]=>
+      object(stdClass)#154 (4) {
+        ["MSG"]=>
+        string(200) "Join DreamxWarriors!!! LEGIT GUILD
+
+ALMOST 2 MINES.      ( crystal mines)
+
+38 MEMBERS ALMOST 40 WOO HOO
+
+      WEOPONS ON IN INVENTORY!!!
+
+     also CRYSTALS
+
+  JOIN NOW LETS RISE IN THE RANKS TOGETHE"
+        ["DATE"]=>
+        float(1354741707795)
+        ["FROM"]=>
+        object(stdClass)#155 (5) {
+          ["LV"]=>
+          int(31)
+          ["NAME"]=>
+          string(12) "Swagerboy325"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYjvSa2AIM"
+          ["SKIN"]=>
+          int(33)
+          ["LOC"]=>
+          string(2) "CA"
+        }
+        ["KEY"]=>
+        string(53) "1354741707795agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYjvSa2AIM"
+      }
+      [17]=>
+      object(stdClass)#152 (4) {
+        ["MSG"]=>
+        string(204) "hey komm zu Die_Aufreißer ! :D wir haben über 45 member 2 mienen sehr nidriege kristall preise ! sehr viel spaß ! kriege sind vorhanden achja wir haben auch waffen und rüstungen im invi also join !!!!"
+        ["DATE"]=>
+        float(1354741601317)
+        ["FROM"]=>
+        object(stdClass)#153 (5) {
+          ["LV"]=>
+          int(39)
+          ["NAME"]=>
+          string(5) "flubi"
+          ["KEY"]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIY7p2fUgw"
+          ["SKIN"]=>
+          int(30)
+          ["LOC"]=>
+          string(2) "DE"
+        }
+        ["KEY"]=>
+        string(52) "1354741601317agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIY7p2fUgw"
+      }
+      [18]=>
+      object(stdClass)#150 (4) {
+        ["MSG"]=>
+        string(176) "Salut. Money Glory Power recrute.
+
+1 mine de gemme et 2 de crystaux vraiment pas cher. 
+29 membres
+Leader lvl41 et disponible.
+Tous les level sont acceptés
+Viens au moins voir"
+        ["DATE"]=>
+        float(1354741588445)
+        ["FROM"]=>
+        object(stdClass)#151 (5) {
+          ["LV"]=>
+          int(38)
+          ["NAME"]=>
+          string(8) "M.I.P.82"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY1_X1kAIM"
+          ["SKIN"]=>
+          int(8)
+          ["LOC"]=>
+          string(2) "FR"
+        }
+        ["KEY"]=>
+        string(53) "1354741588445agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY1_X1kAIM"
+      }
+      [19]=>
+      object(stdClass)#148 (4) {
+        ["MSG"]=>
+        string(109) "join The Executers 
+need strong members 
+we have 5 members
+we have to get stronger
+so plz join The Executers "
+        ["DATE"]=>
+        float(1354741491485)
+        ["FROM"]=>
+        object(stdClass)#149 (5) {
+          ["LV"]=>
+          int(30)
+          ["NAME"]=>
+          string(12) "ELITE HUNT3R"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYvNHV1AIM"
+          ["SKIN"]=>
+          int(17)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354741491485agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYvNHV1AIM"
+      }
+      [20]=>
+      object(stdClass)#146 (4) {
+        ["MSG"]=>
+        string(192) "Join my guild Glob! 
+We have 40+ loyal members!
+We have lots of Weapons and Armours for sale!
+Anyone who is level 40+ gets free crystals!
+We have lots of crystals as well! :D
+See you there! :)"
+        ["DATE"]=>
+        float(1354741471653)
+        ["FROM"]=>
+        object(stdClass)#147 (5) {
+          ["LV"]=>
+          int(30)
+          ["NAME"]=>
+          string(9) "Jammybob2"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY2_qW8wEM"
+          ["SKIN"]=>
+          int(41)
+          ["LOC"]=>
+          string(2) "GB"
+        }
+        ["KEY"]=>
+        string(53) "1354741471653agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY2_qW8wEM"
+      }
+      [21]=>
+      object(stdClass)#144 (4) {
+        ["MSG"]=>
+        string(199) "looks like all girls got their wish about a new costume for girls anyway join Legendary Savages 
+16 strong members
+19k gold
+alot of things in inventory
+a level 37 leader
+lvls 20+ if lower, still good"
+        ["DATE"]=>
+        float(1354741457327)
+        ["FROM"]=>
+        object(stdClass)#145 (5) {
+          ["LV"]=>
+          int(37)
+          ["NAME"]=>
+          string(9) "ravage209"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYqPSo_gEM"
+          ["SKIN"]=>
+          int(28)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354741457327agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYqPSo_gEM"
+      }
+      [22]=>
+      object(stdClass)#142 (4) {
+        ["MSG"]=>
+        string(193) "Need a nice guild?
+
+Join The Ascension. 
+
+We are a nice guild and also getting stronger.
+
+Just started reserving positions for our crystals, so the list is empty.
+
+COME ON JOIN 
+JOIN
+JOIN
+JOIN
+"
+        ["DATE"]=>
+        float(1354741249358)
+        ["FROM"]=>
+        object(stdClass)#143 (5) {
+          ["LV"]=>
+          int(32)
+          ["NAME"]=>
+          string(9) "Timeshock"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYkfzh-wIM"
+          ["SKIN"]=>
+          int(17)
+          ["LOC"]=>
+          string(2) "AU"
+        }
+        ["KEY"]=>
+        string(53) "1354741249358agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYkfzh-wIM"
+      }
+      [23]=>
+      object(stdClass)#140 (4) {
+        ["MSG"]=>
+        string(200) "rejoinger narrow escape 
+
+-3mine disponible
+
+- beaucoup de conseil et d aide pour les niveau 25 qui ont besoin de coup de main 
+
+- les interreser veuiller envoyer un message a "mortimous"
+
+- min nv 25"
+        ["DATE"]=>
+        float(1354741221928)
+        ["FROM"]=>
+        object(stdClass)#141 (5) {
+          ["LV"]=>
+          int(32)
+          ["NAME"]=>
+          string(10) "mortimous2"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYy6jf3wIM"
+          ["SKIN"]=>
+          int(37)
+          ["LOC"]=>
+          string(2) "BE"
+        }
+        ["KEY"]=>
+        string(53) "1354741221928agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYy6jf3wIM"
+      }
+      [24]=>
+      object(stdClass)#138 (4) {
+        ["MSG"]=>
+        string(117) "Join my guild free crystal   its named: guildoffight
+first join will be collonel search admin in lvl 30 or higher !!!"
+        ["DATE"]=>
+        float(1354741213341)
+        ["FROM"]=>
+        object(stdClass)#139 (5) {
+          ["LV"]=>
+          int(30)
+          ["NAME"]=>
+          string(10) "analröven"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYtPGgxQEM"
+          ["SKIN"]=>
+          int(17)
+          ["LOC"]=>
+          string(2) "SE"
+        }
+        ["KEY"]=>
+        string(53) "1354741213341agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYtPGgxQEM"
+      }
+      [25]=>
+      object(stdClass)#136 (4) {
+        ["MSG"]=>
+        string(117) ">>>>I NEED TO JOIN A GUILD<<<< that will give me a green crystal asap <<<<< im level 31 strong member also very loyal"
+        ["DATE"]=>
+        float(1354741196523)
+        ["FROM"]=>
+        object(stdClass)#137 (5) {
+          ["LV"]=>
+          int(31)
+          ["NAME"]=>
+          string(9) "fractured"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY3NOc8QIM"
+          ["SKIN"]=>
+          int(10)
+          ["LOC"]=>
+          string(2) "GB"
+        }
+        ["KEY"]=>
+        string(53) "1354741196523agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY3NOc8QIM"
+      }
+      [26]=>
+      object(stdClass)#134 (4) {
+        ["MSG"]=>
+        string(98) "blackD3mons.  join now!!!!! any level, play 4 fun just join will NOT cost u anything, so join!!!!!"
+        ["DATE"]=>
+        float(1354741174409)
+        ["FROM"]=>
+        object(stdClass)#135 (5) {
+          ["LV"]=>
+          int(27)
+          ["NAME"]=>
+          string(10) "Za MonK3yz"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYwqqu7wIM"
+          ["SKIN"]=>
+          int(40)
+          ["LOC"]=>
+          string(2) "GB"
+        }
+        ["KEY"]=>
+        string(53) "1354741174409agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYwqqu7wIM"
+      }
+      [27]=>
+      object(stdClass)#132 (4) {
+        ["MSG"]=>
+        string(200) "Kommt in die Gilde DarkMission
+
+---> Join mit Lvl 20
+---> 2 Admins werden noch gesucht!!!! 
+---> Kurz vor unserer Miene!!! 
+
+Wir sind eine neue Hilfsbereite Gilde :-) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join DarkMission"
+        ["DATE"]=>
+        float(1354741172247)
+        ["FROM"]=>
+        object(stdClass)#133 (5) {
+          ["LV"]=>
+          int(41)
+          ["NAME"]=>
+          string(8) "Tommbett"
+          ["KEY"]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIY8LX2WAw"
+          ["SKIN"]=>
+          int(33)
+          ["LOC"]=>
+          string(2) "DE"
+        }
+        ["KEY"]=>
+        string(52) "1354741172247agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIY8LX2WAw"
+      }
+      [28]=>
+      object(stdClass)#130 (4) {
+        ["MSG"]=>
+        string(89) "join my guild no survivors we have 60k we just need mats for a mine please donate lvl 20+"
+        ["DATE"]=>
+        float(1354741169299)
+        ["FROM"]=>
+        object(stdClass)#131 (5) {
+          ["LV"]=>
+          int(33)
+          ["NAME"]=>
+          string(3) "C-$"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYhsCZ1gEM"
+          ["SKIN"]=>
+          int(29)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354741169299agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYhsCZ1gEM"
+      }
+      [29]=>
+      object(stdClass)#128 (4) {
+        ["MSG"]=>
+        string(194) "  |  AFOgidm  |
+  [_____________]
+Check AFOgidm videos on Youtube and suscribe! Soon there will be Tutorials of how to do things like Stacking Energy and you can give suggestions for new videos!"
+        ["DATE"]=>
+        float(1354741112758)
+        ["FROM"]=>
+        object(stdClass)#129 (5) {
+          ["LV"]=>
+          int(45)
+          ["NAME"]=>
+          string(4) "GIDM"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYk6fjgwIM"
+          ["SKIN"]=>
+          int(11)
+          ["LOC"]=>
+          string(0) ""
+        }
+        ["KEY"]=>
+        string(53) "1354741112758agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYk6fjgwIM"
+      }
+      [30]=>
+      object(stdClass)#126 (4) {
+        ["MSG"]=>
+        string(133) "join Pelle Crew..
+
+1 mine
+
+13 member
+
+green 20 mat
+blu 30 mat each
+orange 40 mat each
+purple 50 mat each.
+
+all lv can join.. have fun"
+        ["DATE"]=>
+        float(1354741111431)
+        ["FROM"]=>
+        object(stdClass)#127 (5) {
+          ["LV"]=>
+          int(30)
+          ["NAME"]=>
+          string(6) "ilcapo"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYj4TLjAMM"
+          ["SKIN"]=>
+          int(10)
+          ["LOC"]=>
+          string(2) "IT"
+        }
+        ["KEY"]=>
+        string(53) "1354741111431agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYj4TLjAMM"
+      }
+      [31]=>
+      object(stdClass)#124 (4) {
+        ["MSG"]=>
+        string(48) "FLAVIA TE AMO FLAVIA TE AMO SOS MI AMOR!YO RODRI"
+        ["DATE"]=>
+        float(1354741095114)
+        ["FROM"]=>
+        object(stdClass)#125 (5) {
+          ["LV"]=>
+          int(40)
+          ["NAME"]=>
+          string(7) "Lestat!"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY5K3N5wEM"
+          ["SKIN"]=>
+          int(30)
+          ["LOC"]=>
+          string(2) "AR"
+        }
+        ["KEY"]=>
+        string(53) "1354741095114agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY5K3N5wEM"
+      }
+      [32]=>
+      object(stdClass)#122 (4) {
+        ["MSG"]=>
+        string(197) "The StormZ has a huge open bid today and tomorrow
+laser swords
+dragon slasher
+ice burst blade join now
+no donation required
+if anybody has a guild with a big inventory message me on kik GOTMILK2312"
+        ["DATE"]=>
+        float(1354741052692)
+        ["FROM"]=>
+        object(stdClass)#123 (5) {
+          ["LV"]=>
+          int(33)
+          ["NAME"]=>
+          string(10) "timbughlin"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYzKfuvgEM"
+          ["SKIN"]=>
+          int(34)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354741052692agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYzKfuvgEM"
+      }
+      [33]=>
+      object(stdClass)#120 (4) {
+        ["MSG"]=>
+        string(160) "Real German Corp sucht neue Member zurzeit 11 leute. Wenn du lust hast was mit aufzubauen dann bist du bei uns genau richtig, Melde dich bei Real German Corp an"
+        ["DATE"]=>
+        float(1354740764592)
+        ["FROM"]=>
+        object(stdClass)#121 (5) {
+          ["LV"]=>
+          int(31)
+          ["NAME"]=>
+          string(7) "Cifer51"
+          ["KEY"]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYieGbTQw"
+          ["SKIN"]=>
+          int(33)
+          ["LOC"]=>
+          string(2) "DE"
+        }
+        ["KEY"]=>
+        string(52) "1354740764592agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYieGbTQw"
+      }
+    }
+    ["ML"]=>
+    array(32) {
+      [0]=>
+      object(stdClass)#118 (4) {
+        ["MSG"]=>
+        string(43) "quadrat6 challenged you. You beat quadrat6."
+        ["DATE"]=>
+        float(1354740662573)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY1LWvqwMM"
+          [1]=>
+          string(8) "quadrat6"
+          [2]=>
+          string(9) "954424494"
+          [3]=>
+          string(2) "21"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [1]=>
+      object(stdClass)#119 (4) {
+        ["MSG"]=>
+        string(39) "benj76 challenged you. You beat benj76."
+        ["DATE"]=>
+        float(1354740803190)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYiLm7tgMM"
+          [1]=>
+          string(6) "benj76"
+          [2]=>
+          string(9) "954486373"
+          [3]=>
+          string(2) "10"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [2]=>
+      object(stdClass)#116 (4) {
+        ["MSG"]=>
+        string(41) "ArkaniX challenged you. You beat ArkaniX."
+        ["DATE"]=>
+        float(1354740843965)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYp86npQMM"
+          [1]=>
+          string(7) "ArkaniX"
+          [2]=>
+          string(9) "954377085"
+          [3]=>
+          string(2) "10"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [3]=>
+      object(stdClass)#117 (4) {
+        ["MSG"]=>
+        string(45) "220174598 challenged you. You beat 220174598."
+        ["DATE"]=>
+        float(1354740876743)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYntzDngIM"
+          [1]=>
+          string(9) "220174598"
+          [2]=>
+          string(9) "954357062"
+          [3]=>
+          string(2) "21"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [4]=>
+      object(stdClass)#114 (4) {
+        ["MSG"]=>
+        string(45) "220174598 challenged you. You beat 220174598."
+        ["DATE"]=>
+        float(1354740900730)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYntzDngIM"
+          [1]=>
+          string(9) "220174598"
+          [2]=>
+          string(9) "954352747"
+          [3]=>
+          string(2) "21"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [5]=>
+      object(stdClass)#115 (4) {
+        ["MSG"]=>
+        string(45) "220174598 challenged you. You beat 220174598."
+        ["DATE"]=>
+        float(1354740957162)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYntzDngIM"
+          [1]=>
+          string(9) "220174598"
+          [2]=>
+          string(9) "954393637"
+          [3]=>
+          string(2) "21"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [6]=>
+      object(stdClass)#112 (4) {
+        ["MSG"]=>
+        string(47) "flo rida M challenged you. You beat flo rida M."
+        ["DATE"]=>
+        float(1354741372801)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYvs36vAIM"
+          [1]=>
+          string(10) "flo rida M"
+          [2]=>
+          string(9) "954367781"
+          [3]=>
+          string(1) "8"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [7]=>
+      object(stdClass)#113 (4) {
+        ["MSG"]=>
+        string(43) "obito974 challenged you. You beat obito974."
+        ["DATE"]=>
+        float(1354741430702)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYwJCUuQMM"
+          [1]=>
+          string(8) "obito974"
+          [2]=>
+          string(9) "954233158"
+          [3]=>
+          string(1) "8"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [8]=>
+      object(stdClass)#110 (4) {
+        ["MSG"]=>
+        string(39) "yunox3 challenged you. You beat yunox3."
+        ["DATE"]=>
+        float(1354741569404)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY5_uCtgMM"
+          [1]=>
+          string(6) "yunox3"
+          [2]=>
+          string(9) "954539444"
+          [3]=>
+          string(1) "1"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [9]=>
+      object(stdClass)#111 (4) {
+        ["MSG"]=>
+        string(49) "huuuuh gaay challenged you. You beat huuuuh gaay."
+        ["DATE"]=>
+        float(1354741599292)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYgqyphwMM"
+          [1]=>
+          string(11) "huuuuh gaay"
+          [2]=>
+          string(9) "954541444"
+          [3]=>
+          string(2) "12"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [10]=>
+      object(stdClass)#108 (4) {
+        ["MSG"]=>
+        string(43) "Falygood challenged you. You beat Falygood."
+        ["DATE"]=>
+        float(1354741687772)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYm7n_ugMM"
+          [1]=>
+          string(8) "Falygood"
+          [2]=>
+          string(9) "954522576"
+          [3]=>
+          string(2) "10"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [11]=>
+      object(stdClass)#109 (4) {
+        ["MSG"]=>
+        string(39) "rakexa challenged you. You beat rakexa."
+        ["DATE"]=>
+        float(1354741723580)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY1NvRlQMM"
+          [1]=>
+          string(6) "rakexa"
+          [2]=>
+          string(9) "954555425"
+          [3]=>
+          string(2) "34"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [12]=>
+      object(stdClass)#106 (4) {
+        ["MSG"]=>
+        string(45) "leocleoc7 challenged you. You beat leocleoc7."
+        ["DATE"]=>
+        float(1354741814622)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYhf_N9AIM"
+          [1]=>
+          string(9) "leocleoc7"
+          [2]=>
+          string(9) "954562442"
+          [3]=>
+          string(2) "10"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [13]=>
+      object(stdClass)#107 (4) {
+        ["MSG"]=>
+        string(69) "Child of Razvon2 challenged you. You were beaten by Child of Razvon2."
+        ["DATE"]=>
+        float(1354741844581)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY9YWdqwMM"
+          [1]=>
+          string(16) "Child of Razvon2"
+          [2]=>
+          string(9) "954371844"
+          [3]=>
+          string(2) "21"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [14]=>
+      object(stdClass)#104 (4) {
+        ["MSG"]=>
+        string(31) "sperman asked you to be friend."
+        ["DATE"]=>
+        float(1354741845831)
+        ["PRM"]=>
+        array(2) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYpJT4ugMM"
+          [1]=>
+          string(7) "sperman"
+        }
+        ["TYPE"]=>
+        int(7)
+      }
+      [15]=>
+      object(stdClass)#105 (4) {
+        ["MSG"]=>
+        string(55) "556353044 challenged you. You were beaten by 556353044."
+        ["DATE"]=>
+        float(1354741853908)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYicjoVww"
+          [1]=>
+          string(9) "556353044"
+          [2]=>
+          string(9) "954569417"
+          [3]=>
+          string(2) "10"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [16]=>
+      object(stdClass)#102 (4) {
+        ["MSG"]=>
+        string(51) "Bugshot challenged you. You were beaten by Bugshot."
+        ["DATE"]=>
+        float(1354741886367)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYs9X0Jww"
+          [1]=>
+          string(7) "Bugshot"
+          [2]=>
+          string(9) "954514627"
+          [3]=>
+          string(1) "1"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [17]=>
+      object(stdClass)#103 (4) {
+        ["MSG"]=>
+        string(53) "stevenzento28 challenged you. You beat stevenzento28."
+        ["DATE"]=>
+        float(1354741973301)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYyqrMmwMM"
+          [1]=>
+          string(13) "stevenzento28"
+          [2]=>
+          string(9) "954385877"
+          [3]=>
+          string(1) "1"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [18]=>
+      object(stdClass)#100 (4) {
+        ["MSG"]=>
+        string(41) "Lalo420 challenged you. You beat Lalo420."
+        ["DATE"]=>
+        float(1354741993617)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYpczrsAMM"
+          [1]=>
+          string(7) "Lalo420"
+          [2]=>
+          string(9) "954502668"
+          [3]=>
+          string(1) "8"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [19]=>
+      object(stdClass)#101 (4) {
+        ["MSG"]=>
+        string(61) "deathsnake!! challenged you. You were beaten by deathsnake!!."
+        ["DATE"]=>
+        float(1354742011260)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYqofK1QEM"
+          [1]=>
+          string(12) "deathsnake!!"
+          [2]=>
+          string(9) "954541603"
+          [3]=>
+          string(1) "8"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [20]=>
+      object(stdClass)#98 (4) {
+        ["MSG"]=>
+        string(43) "salomon6 challenged you. You beat salomon6."
+        ["DATE"]=>
+        float(1354742021371)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYwZzgrgIM"
+          [1]=>
+          string(8) "salomon6"
+          [2]=>
+          string(9) "954370079"
+          [3]=>
+          string(2) "21"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [21]=>
+      object(stdClass)#99 (4) {
+        ["MSG"]=>
+        string(53) "toastofdeath4 challenged you. You beat toastofdeath4."
+        ["DATE"]=>
+        float(1354742070367)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYi9W0ugMM"
+          [1]=>
+          string(13) "toastofdeath4"
+          [2]=>
+          string(9) "954424943"
+          [3]=>
+          string(2) "11"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [22]=>
+      object(stdClass)#96 (4) {
+        ["MSG"]=>
+        string(69) "Child of Razvon5 challenged you. You were beaten by Child of Razvon5."
+        ["DATE"]=>
+        float(1354742093359)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYyvGmqwMM"
+          [1]=>
+          string(16) "Child of Razvon5"
+          [2]=>
+          string(9) "954449955"
+          [3]=>
+          string(2) "21"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [23]=>
+      object(stdClass)#97 (4) {
+        ["MSG"]=>
+        string(49) "geppo9 challenged you. You were beaten by geppo9."
+        ["DATE"]=>
+        float(1354742165374)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY2NKnuwMM"
+          [1]=>
+          string(6) "geppo9"
+          [2]=>
+          string(9) "954519613"
+          [3]=>
+          string(1) "5"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [24]=>
+      object(stdClass)#94 (4) {
+        ["MSG"]=>
+        string(57) "TopSpender challenged you. You were beaten by TopSpender."
+        ["DATE"]=>
+        float(1354742181258)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY-66MogMM"
+          [1]=>
+          string(10) "TopSpender"
+          [2]=>
+          string(9) "954389962"
+          [3]=>
+          string(1) "5"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [25]=>
+      object(stdClass)#95 (4) {
+        ["MSG"]=>
+        string(47) "steroides6 challenged you. You beat steroides6."
+        ["DATE"]=>
+        float(1354742186439)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYwoKOrAMM"
+          [1]=>
+          string(10) "steroides6"
+          [2]=>
+          string(9) "954552561"
+          [3]=>
+          string(2) "10"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [26]=>
+      object(stdClass)#92 (4) {
+        ["MSG"]=>
+        string(45) "testerr18 challenged you. You beat testerr18."
+        ["DATE"]=>
+        float(1354742226399)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY4M_-kAMM"
+          [1]=>
+          string(9) "testerr18"
+          [2]=>
+          string(9) "954562606"
+          [3]=>
+          string(1) "1"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [27]=>
+      object(stdClass)#93 (4) {
+        ["MSG"]=>
+        string(55) "detective leon challenged you. You beat detective leon."
+        ["DATE"]=>
+        float(1354742265241)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYs8H4swMM"
+          [1]=>
+          string(14) "detective leon"
+          [2]=>
+          string(9) "954480987"
+          [3]=>
+          string(2) "35"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [28]=>
+      object(stdClass)#90 (4) {
+        ["MSG"]=>
+        string(51) "mikee99 challenged you. You were beaten by mikee99."
+        ["DATE"]=>
+        float(1354742308931)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY9MXHvAMM"
+          [1]=>
+          string(7) "mikee99"
+          [2]=>
+          string(9) "954319238"
+          [3]=>
+          string(2) "38"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [29]=>
+      object(stdClass)#91 (4) {
+        ["MSG"]=>
+        string(55) "Sgt.SyntH challenged you. You were beaten by Sgt.SyntH."
+        ["DATE"]=>
+        float(1354742370077)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYqYrwygIM"
+          [1]=>
+          string(9) "Sgt.SyntH"
+          [2]=>
+          string(9) "954627363"
+          [3]=>
+          string(1) "5"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [30]=>
+      object(stdClass)#88 (4) {
+        ["MSG"]=>
+        string(45) "blackman3 challenged you. You beat blackman3."
+        ["DATE"]=>
+        float(1354742463122)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY0_y1hwIM"
+          [1]=>
+          string(9) "blackman3"
+          [2]=>
+          string(9) "954592666"
+          [3]=>
+          string(1) "5"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [31]=>
+      object(stdClass)#89 (4) {
+        ["MSG"]=>
+        string(71) "maxchoppaeighteen challenged you. You were beaten by maxchoppaeighteen."
+        ["DATE"]=>
+        float(1354742468102)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYiNbWsAMM"
+          [1]=>
+          string(17) "maxchoppaeighteen"
+          [2]=>
+          string(9) "954368077"
+          [3]=>
+          string(2) "10"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+    }
+    ["TS"]=>
+    float(1354742469672)
+  }
+}

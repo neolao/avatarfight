@@ -1,0 +1,3962 @@
+object(stdClass)#178 (2) {
+  ["MAIN"]=>
+  object(stdClass)#179 (1) {
+    ["RVL"]=>
+    array(24) {
+      [0]=>
+      object(stdClass)#180 (27) {
+        ["LV"]=>
+        int(19)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(18)
+        ["ITEM"]=>
+        string(21) "1:-1:-1:-1:8:-1:-1:-1"
+        ["SPD"]=>
+        int(174)
+        ["HP"]=>
+        int(299)
+        ["LST"]=>
+        float(1354686436926)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYjNrRpwMM"
+        ["WIN"]=>
+        int(143)
+        ["LOC"]=>
+        string(0) ""
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(210)
+        ["WFS"]=>
+        string(16) "Jag är bäst!!!"
+        ["SKIN"]=>
+        int(10)
+        ["AGL"]=>
+        int(186)
+        ["STR"]=>
+        int(191)
+        ["NAME"]=>
+        string(7) "leon 03"
+        ["LFS"]=>
+        string(11) "neeeeej!!!!"
+        ["WPN"]=>
+        array(1) {
+          [0]=>
+          int(1)
+        }
+        ["OS"]=>
+        int(1)
+        ["PEX"]=>
+        array(2) {
+          [0]=>
+          object(stdClass)#181 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(3)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+          [1]=>
+          object(stdClass)#182 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(9)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(2) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(107)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [1]=>
+      object(stdClass)#183 (27) {
+        ["LV"]=>
+        int(21)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(67)
+        ["ITEM"]=>
+        string(21) "11:-1:-1:15:-1:7:-1:6"
+        ["SPD"]=>
+        int(203)
+        ["HP"]=>
+        int(329)
+        ["LST"]=>
+        float(1354739614773)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY4v-ntwMM"
+        ["WIN"]=>
+        int(171)
+        ["LOC"]=>
+        string(2) "US"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(520)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(21)
+        ["AGL"]=>
+        int(200)
+        ["STR"]=>
+        int(193)
+        ["NAME"]=>
+        string(17) "LAST SAMURAİİ11"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(1) {
+          [0]=>
+          int(9)
+        }
+        ["OS"]=>
+        int(1)
+        ["PEX"]=>
+        array(0) {
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(6) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(109)
+          [2]=>
+          int(113)
+          [3]=>
+          int(101)
+          [4]=>
+          int(107)
+          [5]=>
+          int(120)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [2]=>
+      object(stdClass)#184 (27) {
+        ["LV"]=>
+        int(21)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(130)
+        ["ITEM"]=>
+        string(22) "1:-1:-1:-1:-1:-1:-1:-1"
+        ["SPD"]=>
+        int(194)
+        ["HP"]=>
+        int(325)
+        ["LST"]=>
+        float(1354739612939)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY_dWvuQMM"
+        ["WIN"]=>
+        int(144)
+        ["LOC"]=>
+        string(2) "NO"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(520)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(10)
+        ["AGL"]=>
+        int(201)
+        ["STR"]=>
+        int(205)
+        ["NAME"]=>
+        string(14) "Assasins Creed"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(5) {
+          [0]=>
+          int(8)
+          [1]=>
+          int(2)
+          [2]=>
+          int(21)
+          [3]=>
+          int(9)
+          [4]=>
+          int(12)
+        }
+        ["OS"]=>
+        int(2)
+        ["PEX"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#185 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(18)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(3) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(109)
+          [2]=>
+          int(113)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [3]=>
+      object(stdClass)#186 (27) {
+        ["LV"]=>
+        int(19)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(47)
+        ["ITEM"]=>
+        string(21) "1:-1:-1:2:-1:10:-1:-1"
+        ["SPD"]=>
+        int(183)
+        ["HP"]=>
+        int(293)
+        ["LST"]=>
+        float(1354739611486)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY1ayjqgMM"
+        ["WIN"]=>
+        int(111)
+        ["LOC"]=>
+        string(2) "CA"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(210)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(21)
+        ["AGL"]=>
+        int(186)
+        ["STR"]=>
+        int(188)
+        ["NAME"]=>
+        string(9) "thuglife9"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(3) {
+          [0]=>
+          int(9)
+          [1]=>
+          int(7)
+          [2]=>
+          int(10)
+        }
+        ["OS"]=>
+        int(1)
+        ["PEX"]=>
+        array(2) {
+          [0]=>
+          object(stdClass)#187 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(1)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+          [1]=>
+          object(stdClass)#188 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(2)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(1) {
+          [0]=>
+          int(105)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [4]=>
+      object(stdClass)#189 (27) {
+        ["LV"]=>
+        int(20)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(32)
+        ["ITEM"]=>
+        string(22) "14:-1:-1:5:-1:-1:-1:-1"
+        ["SPD"]=>
+        int(192)
+        ["HP"]=>
+        int(314)
+        ["LST"]=>
+        float(1354706842360)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY0eipuQMM"
+        ["WIN"]=>
+        int(177)
+        ["LOC"]=>
+        string(2) "AT"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(400)
+        ["WFS"]=>
+        string(15) "owned ya noooob"
+        ["SKIN"]=>
+        int(8)
+        ["AGL"]=>
+        int(196)
+        ["STR"]=>
+        int(178)
+        ["NAME"]=>
+        string(16) "Killerkommando10"
+        ["LFS"]=>
+        string(5) "fu yu"
+        ["WPN"]=>
+        array(5) {
+          [0]=>
+          int(2)
+          [1]=>
+          int(3)
+          [2]=>
+          int(9)
+          [3]=>
+          int(11)
+          [4]=>
+          int(10)
+        }
+        ["OS"]=>
+        int(2)
+        ["PEX"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#190 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(1)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY8LfmuAMM"
+        ["SKL"]=>
+        array(3) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(120)
+          [2]=>
+          int(107)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [5]=>
+      object(stdClass)#191 (27) {
+        ["LV"]=>
+        int(21)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(72)
+        ["ITEM"]=>
+        string(21) "1:-1:-1:-1:-1:7:-1:-1"
+        ["SPD"]=>
+        int(191)
+        ["HP"]=>
+        int(324)
+        ["LST"]=>
+        float(1354739608871)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY4oe0sgMM"
+        ["WIN"]=>
+        int(235)
+        ["LOC"]=>
+        string(2) "US"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(520)
+        ["WFS"]=>
+        string(18) "Join The Deadhouse"
+        ["SKIN"]=>
+        int(11)
+        ["AGL"]=>
+        int(207)
+        ["STR"]=>
+        int(203)
+        ["NAME"]=>
+        string(9) "myaccount"
+        ["LFS"]=>
+        string(45) "raise yer hand if yer gay!
+Join The Deadhouse"
+        ["WPN"]=>
+        array(3) {
+          [0]=>
+          int(7)
+          [1]=>
+          int(11)
+          [2]=>
+          int(1)
+        }
+        ["OS"]=>
+        int(1)
+        ["PEX"]=>
+        array(2) {
+          [0]=>
+          object(stdClass)#192 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(1)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+          [1]=>
+          object(stdClass)#193 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(14)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(1) {
+          [0]=>
+          int(105)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [6]=>
+      object(stdClass)#194 (27) {
+        ["LV"]=>
+        int(18)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(9)
+        ["ITEM"]=>
+        string(20) "11:12:-1:2:8:10:-1:3"
+        ["SPD"]=>
+        int(183)
+        ["HP"]=>
+        int(271)
+        ["LST"]=>
+        float(1354656653450)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYzO6kuQMM"
+        ["WIN"]=>
+        int(110)
+        ["LOC"]=>
+        string(0) ""
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(190)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(10)
+        ["AGL"]=>
+        int(182)
+        ["STR"]=>
+        int(184)
+        ["NAME"]=>
+        string(10) "LouieLogic"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(3) {
+          [0]=>
+          int(9)
+          [1]=>
+          int(8)
+          [2]=>
+          int(11)
+        }
+        ["OS"]=>
+        int(2)
+        ["PEX"]=>
+        array(2) {
+          [0]=>
+          object(stdClass)#195 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(1)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+          [1]=>
+          object(stdClass)#196 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(2)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYsanPuQMM"
+        ["SKL"]=>
+        array(3) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(113)
+          [2]=>
+          int(101)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [7]=>
+      object(stdClass)#197 (27) {
+        ["LV"]=>
+        int(21)
+        ["GD"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#198 (15) {
+            ["LV"]=>
+            int(20)
+            ["STR"]=>
+            int(198)
+            ["NAME"]=>
+            string(7) "batmarn"
+            ["ITEM"]=>
+            string(21) "1:-1:-1:5:-1:-1:-1:-1"
+            ["SPD"]=>
+            int(184)
+            ["WPN"]=>
+            array(1) {
+              [0]=>
+              int(10)
+            }
+            ["HP"]=>
+            int(312)
+            ["LST"]=>
+            float(1354680146213)
+            ["KEY"]=>
+            string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYmoH9twMM"
+            ["BUFF"]=>
+            array(0) {
+            }
+            ["SKL"]=>
+            array(2) {
+              [0]=>
+              int(105)
+              [1]=>
+              int(120)
+            }
+            ["REP"]=>
+            array(0) {
+            }
+            ["LVUP"]=>
+            int(400)
+            ["SKIN"]=>
+            int(7)
+            ["AGL"]=>
+            int(186)
+          }
+        }
+        ["LOSE"]=>
+        int(107)
+        ["ITEM"]=>
+        string(22) "1:-1:-1:-1:-1:-1:-1:-1"
+        ["SPD"]=>
+        int(202)
+        ["HP"]=>
+        int(333)
+        ["LST"]=>
+        float(1354713921386)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYyM2qtAMM"
+        ["WIN"]=>
+        int(218)
+        ["LOC"]=>
+        string(2) "US"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(520)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(5)
+        ["AGL"]=>
+        int(204)
+        ["STR"]=>
+        int(186)
+        ["NAME"]=>
+        string(7) "batmare"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(4) {
+          [0]=>
+          int(16)
+          [1]=>
+          int(8)
+          [2]=>
+          int(11)
+          [3]=>
+          int(10)
+        }
+        ["OS"]=>
+        int(1)
+        ["PEX"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#199 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(4)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(5) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(120)
+          [2]=>
+          int(109)
+          [3]=>
+          int(113)
+          [4]=>
+          int(101)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [8]=>
+      object(stdClass)#200 (27) {
+        ["LV"]=>
+        int(21)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(44)
+        ["ITEM"]=>
+        string(20) "4:-1:18:5:8:-1:-1:-1"
+        ["SPD"]=>
+        int(188)
+        ["HP"]=>
+        int(338)
+        ["LST"]=>
+        float(1354725010554)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY1dLejAIM"
+        ["WIN"]=>
+        int(149)
+        ["LOC"]=>
+        string(0) ""
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(520)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(13)
+        ["AGL"]=>
+        int(203)
+        ["STR"]=>
+        int(196)
+        ["NAME"]=>
+        string(5) "ors21"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(4) {
+          [0]=>
+          int(8)
+          [1]=>
+          int(4)
+          [2]=>
+          int(11)
+          [3]=>
+          int(1)
+        }
+        ["OS"]=>
+        int(4)
+        ["PEX"]=>
+        array(2) {
+          [0]=>
+          object(stdClass)#201 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(1)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+          [1]=>
+          object(stdClass)#202 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(4)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(4) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(120)
+          [2]=>
+          int(101)
+          [3]=>
+          int(115)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [9]=>
+      object(stdClass)#203 (27) {
+        ["LV"]=>
+        int(20)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(44)
+        ["ITEM"]=>
+        string(22) "1:-1:-1:-1:-1:-1:-1:-1"
+        ["SPD"]=>
+        int(188)
+        ["HP"]=>
+        int(305)
+        ["LST"]=>
+        float(1354739603617)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYxcTNtgMM"
+        ["WIN"]=>
+        int(102)
+        ["LOC"]=>
+        string(2) "US"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(400)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(8)
+        ["AGL"]=>
+        int(198)
+        ["STR"]=>
+        int(189)
+        ["NAME"]=>
+        string(5) "edc18"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(2) {
+          [0]=>
+          int(9)
+          [1]=>
+          int(10)
+        }
+        ["OS"]=>
+        int(2)
+        ["PEX"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#204 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(9)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(1) {
+          [0]=>
+          int(105)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [10]=>
+      object(stdClass)#205 (27) {
+        ["LV"]=>
+        int(20)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(32)
+        ["ITEM"]=>
+        string(20) "1:12:-1:2:13:10:-1:3"
+        ["SPD"]=>
+        int(195)
+        ["HP"]=>
+        int(303)
+        ["LST"]=>
+        float(1354694366655)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYpMqNvQMM"
+        ["WIN"]=>
+        int(185)
+        ["LOC"]=>
+        string(2) "DE"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(400)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(2)
+        ["AGL"]=>
+        int(182)
+        ["STR"]=>
+        int(200)
+        ["NAME"]=>
+        string(11) "SOFAstdead2"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(3) {
+          [0]=>
+          int(7)
+          [1]=>
+          int(9)
+          [2]=>
+          int(10)
+        }
+        ["OS"]=>
+        int(2)
+        ["PEX"]=>
+        array(2) {
+          [0]=>
+          object(stdClass)#206 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(2)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+          [1]=>
+          object(stdClass)#207 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(4)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(1) {
+          [0]=>
+          int(105)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [11]=>
+      object(stdClass)#208 (27) {
+        ["LV"]=>
+        int(1)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(0)
+        ["ITEM"]=>
+        string(23) "-1:-1:-1:-1:-1:-1:-1:-1"
+        ["SPD"]=>
+        int(100)
+        ["HP"]=>
+        int(100)
+        ["LST"]=>
+        float(1354617860341)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYs6DuwgMM"
+        ["WIN"]=>
+        int(0)
+        ["LOC"]=>
+        string(0) ""
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(43)
+        ["WFS"]=>
+        string(21) "je tes manger petit !"
+        ["SKIN"]=>
+        int(10)
+        ["AGL"]=>
+        int(100)
+        ["STR"]=>
+        int(100)
+        ["NAME"]=>
+        string(9) "~shaadow~"
+        ["LFS"]=>
+        string(39) "je reviendrais plus puissant que jamais"
+        ["WPN"]=>
+        array(0) {
+        }
+        ["OS"]=>
+        int(2)
+        ["PEX"]=>
+        array(0) {
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(0) {
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [12]=>
+      object(stdClass)#209 (27) {
+        ["LV"]=>
+        int(20)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(115)
+        ["ITEM"]=>
+        string(22) "1:-1:-1:-1:-1:-1:-1:-1"
+        ["SPD"]=>
+        int(191)
+        ["HP"]=>
+        int(309)
+        ["LST"]=>
+        float(1354739600477)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY0-fQsgMM"
+        ["WIN"]=>
+        int(115)
+        ["LOC"]=>
+        string(2) "DE"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(400)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(10)
+        ["AGL"]=>
+        int(191)
+        ["STR"]=>
+        int(189)
+        ["NAME"]=>
+        string(7) "worldi8"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(1) {
+          [0]=>
+          int(10)
+        }
+        ["OS"]=>
+        int(2)
+        ["PEX"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#210 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(1)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(1) {
+          [0]=>
+          int(105)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [13]=>
+      object(stdClass)#211 (27) {
+        ["LV"]=>
+        int(19)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(18)
+        ["ITEM"]=>
+        string(20) "1:-1:-1:2:-1:10:-1:3"
+        ["SPD"]=>
+        int(176)
+        ["HP"]=>
+        int(297)
+        ["LST"]=>
+        float(1354619068146)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYw-fJtwMM"
+        ["WIN"]=>
+        int(136)
+        ["LOC"]=>
+        string(2) "FR"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(210)
+        ["WFS"]=>
+        string(20) "white power !!!!!!!!"
+        ["SKIN"]=>
+        int(10)
+        ["AGL"]=>
+        int(189)
+        ["STR"]=>
+        int(188)
+        ["NAME"]=>
+        string(11) "88furious88"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(2) {
+          [0]=>
+          int(8)
+          [1]=>
+          int(10)
+        }
+        ["OS"]=>
+        int(1)
+        ["PEX"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#212 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(4)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYvaWAuwMM"
+        ["SKL"]=>
+        array(6) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(109)
+          [2]=>
+          int(113)
+          [3]=>
+          int(101)
+          [4]=>
+          int(107)
+          [5]=>
+          int(120)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#213 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(2)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [14]=>
+      object(stdClass)#214 (27) {
+        ["LV"]=>
+        int(20)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(8)
+        ["ITEM"]=>
+        string(22) "4:-1:-1:-1:-1:-1:-1:-1"
+        ["SPD"]=>
+        int(196)
+        ["HP"]=>
+        int(311)
+        ["LST"]=>
+        float(1354714857344)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYyaumvwMM"
+        ["WIN"]=>
+        int(135)
+        ["LOC"]=>
+        string(2) "GB"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(400)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(1)
+        ["AGL"]=>
+        int(183)
+        ["STR"]=>
+        int(190)
+        ["NAME"]=>
+        string(13) "freddie mays4"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(2) {
+          [0]=>
+          int(9)
+          [1]=>
+          int(10)
+        }
+        ["OS"]=>
+        int(1)
+        ["PEX"]=>
+        array(2) {
+          [0]=>
+          object(stdClass)#215 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(3)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+          [1]=>
+          object(stdClass)#216 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(9)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(3) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(101)
+          [2]=>
+          int(113)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [15]=>
+      object(stdClass)#217 (27) {
+        ["LV"]=>
+        int(20)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(114)
+        ["ITEM"]=>
+        string(22) "-1:-1:20:-1:-1:7:-1:-1"
+        ["SPD"]=>
+        int(194)
+        ["HP"]=>
+        int(310)
+        ["LST"]=>
+        float(1354739593999)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY5rSUmgMM"
+        ["WIN"]=>
+        int(108)
+        ["LOC"]=>
+        string(2) "MY"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(400)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(3)
+        ["AGL"]=>
+        int(189)
+        ["STR"]=>
+        int(187)
+        ["NAME"]=>
+        string(10) "firdaus222"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(2) {
+          [0]=>
+          int(9)
+          [1]=>
+          int(10)
+        }
+        ["OS"]=>
+        int(2)
+        ["PEX"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#218 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(7)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(3) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(109)
+          [2]=>
+          int(113)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [16]=>
+      object(stdClass)#219 (27) {
+        ["LV"]=>
+        int(21)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(34)
+        ["ITEM"]=>
+        string(20) "1:12:19:2:-1:-1:-1:3"
+        ["SPD"]=>
+        int(200)
+        ["HP"]=>
+        int(336)
+        ["LST"]=>
+        float(1354709170384)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYzsDXuwMM"
+        ["WIN"]=>
+        int(207)
+        ["LOC"]=>
+        string(2) "US"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(520)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(1)
+        ["AGL"]=>
+        int(200)
+        ["STR"]=>
+        int(189)
+        ["NAME"]=>
+        string(8) "unknew15"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(4) {
+          [0]=>
+          int(12)
+          [1]=>
+          int(8)
+          [2]=>
+          int(19)
+          [3]=>
+          int(10)
+        }
+        ["OS"]=>
+        int(2)
+        ["PEX"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#220 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(4)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(4) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(109)
+          [2]=>
+          int(113)
+          [3]=>
+          int(107)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [17]=>
+      object(stdClass)#221 (27) {
+        ["LV"]=>
+        int(20)
+        ["GD"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#222 (15) {
+            ["LV"]=>
+            int(21)
+            ["STR"]=>
+            int(194)
+            ["NAME"]=>
+            string(6) "quytdn"
+            ["ITEM"]=>
+            string(20) "1:-1:9:-1:8:16:-1:-1"
+            ["SPD"]=>
+            int(200)
+            ["WPN"]=>
+            array(4) {
+              [0]=>
+              int(9)
+              [1]=>
+              int(1)
+              [2]=>
+              int(10)
+              [3]=>
+              int(8)
+            }
+            ["HP"]=>
+            int(331)
+            ["LST"]=>
+            float(1354682723390)
+            ["KEY"]=>
+            string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYzvLdvAMM"
+            ["BUFF"]=>
+            array(0) {
+            }
+            ["SKL"]=>
+            array(6) {
+              [0]=>
+              int(105)
+              [1]=>
+              int(109)
+              [2]=>
+              int(113)
+              [3]=>
+              int(101)
+              [4]=>
+              int(107)
+              [5]=>
+              int(120)
+            }
+            ["REP"]=>
+            array(0) {
+            }
+            ["LVUP"]=>
+            int(520)
+            ["SKIN"]=>
+            int(32)
+            ["AGL"]=>
+            int(200)
+          }
+        }
+        ["LOSE"]=>
+        int(9)
+        ["ITEM"]=>
+        string(21) "14:-1:-1:5:13:7:-1:17"
+        ["SPD"]=>
+        int(183)
+        ["HP"]=>
+        int(311)
+        ["LST"]=>
+        float(1354699832566)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY4KO0-wIM"
+        ["WIN"]=>
+        int(146)
+        ["LOC"]=>
+        string(2) "GB"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(400)
+        ["WFS"]=>
+        string(21) "i'll show myself out!"
+        ["SKIN"]=>
+        int(13)
+        ["AGL"]=>
+        int(184)
+        ["STR"]=>
+        int(202)
+        ["NAME"]=>
+        string(10) "Howlinloki"
+        ["LFS"]=>
+        string(39) "Nobody move my contact lense is missing"
+        ["WPN"]=>
+        array(5) {
+          [0]=>
+          int(2)
+          [1]=>
+          int(5)
+          [2]=>
+          int(8)
+          [3]=>
+          int(4)
+          [4]=>
+          int(10)
+        }
+        ["OS"]=>
+        int(1)
+        ["PEX"]=>
+        array(2) {
+          [0]=>
+          object(stdClass)#223 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(18)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+          [1]=>
+          object(stdClass)#224 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(13)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(6) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(109)
+          [2]=>
+          int(101)
+          [3]=>
+          int(107)
+          [4]=>
+          int(113)
+          [5]=>
+          int(120)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [18]=>
+      object(stdClass)#225 (27) {
+        ["LV"]=>
+        int(21)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(138)
+        ["ITEM"]=>
+        string(21) "1:-1:-1:2:-1:16:-1:-1"
+        ["SPD"]=>
+        int(198)
+        ["HP"]=>
+        int(335)
+        ["LST"]=>
+        float(1354739589858)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYpdawkQMM"
+        ["WIN"]=>
+        int(201)
+        ["LOC"]=>
+        string(2) "CA"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(520)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(8)
+        ["AGL"]=>
+        int(201)
+        ["STR"]=>
+        int(191)
+        ["NAME"]=>
+        string(10) "holydiver3"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(3) {
+          [0]=>
+          int(12)
+          [1]=>
+          int(11)
+          [2]=>
+          int(10)
+        }
+        ["OS"]=>
+        int(1)
+        ["PEX"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#226 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(4)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(2) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(109)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [19]=>
+      object(stdClass)#227 (27) {
+        ["LV"]=>
+        int(20)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(62)
+        ["ITEM"]=>
+        string(23) "-1:-1:-1:-1:-1:-1:-1:-1"
+        ["SPD"]=>
+        int(191)
+        ["HP"]=>
+        int(301)
+        ["LST"]=>
+        float(1354739589669)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYs_6X8AEM"
+        ["WIN"]=>
+        int(69)
+        ["LOC"]=>
+        string(2) "US"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(400)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(34)
+        ["AGL"]=>
+        int(194)
+        ["STR"]=>
+        int(194)
+        ["NAME"]=>
+        string(9) "jaynasty7"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(0) {
+        }
+        ["OS"]=>
+        int(1)
+        ["PEX"]=>
+        array(0) {
+        }
+        ["MAS"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY1ou05AEM"
+        ["SKL"]=>
+        array(1) {
+          [0]=>
+          int(105)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [20]=>
+      object(stdClass)#228 (27) {
+        ["LV"]=>
+        int(19)
+        ["GD"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#229 (15) {
+            ["LV"]=>
+            int(22)
+            ["STR"]=>
+            int(209)
+            ["NAME"]=>
+            string(20) "BlackOpszombies4life"
+            ["ITEM"]=>
+            string(21) "-1:12:18:-1:8:7:-1:-1"
+            ["SPD"]=>
+            int(198)
+            ["WPN"]=>
+            array(3) {
+              [0]=>
+              int(12)
+              [1]=>
+              int(8)
+              [2]=>
+              int(11)
+            }
+            ["HP"]=>
+            int(351)
+            ["LST"]=>
+            float(1354739388615)
+            ["KEY"]=>
+            string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYh4-LtAMM"
+            ["BUFF"]=>
+            array(0) {
+            }
+            ["SKL"]=>
+            array(6) {
+              [0]=>
+              int(105)
+              [1]=>
+              int(113)
+              [2]=>
+              int(101)
+              [3]=>
+              int(109)
+              [4]=>
+              int(120)
+              [5]=>
+              int(107)
+            }
+            ["REP"]=>
+            array(0) {
+            }
+            ["LVUP"]=>
+            int(640)
+            ["SKIN"]=>
+            int(10)
+            ["AGL"]=>
+            int(212)
+          }
+        }
+        ["LOSE"]=>
+        int(20)
+        ["ITEM"]=>
+        string(21) "11:12:18:2:13:10:-1:3"
+        ["SPD"]=>
+        int(189)
+        ["HP"]=>
+        int(289)
+        ["LST"]=>
+        float(1354739588666)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYu4jtrQMM"
+        ["WIN"]=>
+        int(99)
+        ["LOC"]=>
+        string(2) "US"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(210)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(8)
+        ["AGL"]=>
+        int(183)
+        ["STR"]=>
+        int(189)
+        ["NAME"]=>
+        string(7) "rage 25"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(4) {
+          [0]=>
+          int(2)
+          [1]=>
+          int(5)
+          [2]=>
+          int(9)
+          [3]=>
+          int(1)
+        }
+        ["OS"]=>
+        int(2)
+        ["PEX"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#230 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(2)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(4) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(109)
+          [2]=>
+          int(113)
+          [3]=>
+          int(120)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [21]=>
+      object(stdClass)#231 (27) {
+        ["LV"]=>
+        int(20)
+        ["GD"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#232 (15) {
+            ["LV"]=>
+            int(17)
+            ["STR"]=>
+            int(166)
+            ["NAME"]=>
+            string(10) "super kame"
+            ["ITEM"]=>
+            string(23) "-1:-1:-1:-1:-1:-1:-1:-1"
+            ["SPD"]=>
+            int(183)
+            ["WPN"]=>
+            array(0) {
+            }
+            ["HP"]=>
+            int(265)
+            ["LST"]=>
+            float(1353886183658)
+            ["KEY"]=>
+            string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYp_W4pQMM"
+            ["BUFF"]=>
+            array(0) {
+            }
+            ["SKL"]=>
+            array(1) {
+              [0]=>
+              int(105)
+            }
+            ["REP"]=>
+            array(0) {
+            }
+            ["LVUP"]=>
+            int(160)
+            ["SKIN"]=>
+            int(1)
+            ["AGL"]=>
+            int(176)
+          }
+        }
+        ["LOSE"]=>
+        int(50)
+        ["ITEM"]=>
+        string(21) "1:-1:-1:-1:8:-1:-1:-1"
+        ["SPD"]=>
+        int(194)
+        ["HP"]=>
+        int(303)
+        ["LST"]=>
+        float(1354738930169)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY0eKupQMM"
+        ["WIN"]=>
+        int(124)
+        ["LOC"]=>
+        string(2) "US"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(400)
+        ["WFS"]=>
+        string(4) "Yay!"
+        ["SKIN"]=>
+        int(24)
+        ["AGL"]=>
+        int(191)
+        ["STR"]=>
+        int(192)
+        ["NAME"]=>
+        string(10) "minnymoo11"
+        ["LFS"]=>
+        string(3) "No!"
+        ["WPN"]=>
+        array(3) {
+          [0]=>
+          int(8)
+          [1]=>
+          int(12)
+          [2]=>
+          int(10)
+        }
+        ["OS"]=>
+        int(1)
+        ["PEX"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#233 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(4)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(3) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(113)
+          [2]=>
+          int(120)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [22]=>
+      object(stdClass)#234 (27) {
+        ["LV"]=>
+        int(21)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(102)
+        ["ITEM"]=>
+        string(20) "4:12:18:5:-1:7:-1:-1"
+        ["SPD"]=>
+        int(204)
+        ["HP"]=>
+        int(336)
+        ["LST"]=>
+        float(1354739586300)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY3YKgpwMM"
+        ["WIN"]=>
+        int(197)
+        ["LOC"]=>
+        string(2) "US"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(520)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(8)
+        ["AGL"]=>
+        int(191)
+        ["STR"]=>
+        int(194)
+        ["NAME"]=>
+        string(6) "traids"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(2) {
+          [0]=>
+          int(8)
+          [1]=>
+          int(10)
+        }
+        ["OS"]=>
+        int(1)
+        ["PEX"]=>
+        array(2) {
+          [0]=>
+          object(stdClass)#235 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(4)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+          [1]=>
+          object(stdClass)#236 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(7)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(0) ""
+        ["SKL"]=>
+        array(4) {
+          [0]=>
+          int(105)
+          [1]=>
+          int(101)
+          [2]=>
+          int(107)
+          [3]=>
+          int(113)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+      [23]=>
+      object(stdClass)#237 (27) {
+        ["LV"]=>
+        int(18)
+        ["GD"]=>
+        array(0) {
+        }
+        ["LOSE"]=>
+        int(81)
+        ["ITEM"]=>
+        string(21) "1:-1:18:-1:-1:-1:-1:3"
+        ["SPD"]=>
+        int(186)
+        ["HP"]=>
+        int(285)
+        ["LST"]=>
+        float(1354700333422)
+        ["KEY"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY6pztuAMM"
+        ["WIN"]=>
+        int(125)
+        ["LOC"]=>
+        string(2) "GB"
+        ["REP"]=>
+        array(0) {
+        }
+        ["LVUP"]=>
+        int(190)
+        ["WFS"]=>
+        string(0) ""
+        ["SKIN"]=>
+        int(22)
+        ["AGL"]=>
+        int(168)
+        ["STR"]=>
+        int(181)
+        ["NAME"]=>
+        string(12) "adam barrett"
+        ["LFS"]=>
+        string(0) ""
+        ["WPN"]=>
+        array(3) {
+          [0]=>
+          int(2)
+          [1]=>
+          int(11)
+          [2]=>
+          int(10)
+        }
+        ["OS"]=>
+        int(1)
+        ["PEX"]=>
+        array(1) {
+          [0]=>
+          object(stdClass)#238 (6) {
+            ["STR"]=>
+            int(0)
+            ["QUA"]=>
+            int(0)
+            ["ID"]=>
+            int(7)
+            ["SPD"]=>
+            int(0)
+            ["HP"]=>
+            int(0)
+            ["AGL"]=>
+            int(0)
+          }
+        }
+        ["MAS"]=>
+        string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYz-DnuAMM"
+        ["SKL"]=>
+        array(1) {
+          [0]=>
+          int(105)
+        }
+        ["BUFF"]=>
+        array(0) {
+        }
+        ["PT"]=>
+        int(0)
+        ["RPEX"]=>
+        array(0) {
+        }
+        ["TW"]=>
+        int(-1)
+      }
+    }
+  }
+  ["HB"]=>
+  object(stdClass)#239 (3) {
+    ["NWM"]=>
+    array(39) {
+      [0]=>
+      object(stdClass)#240 (4) {
+        ["MSG"]=>
+        string(216) "☆kommt zu:" Battler!!! ;)"☆
+☆warum?☆
+
+★1 Miene!
+★zweite kann gebaut werden!
+
+★hoher leader level!
+★hoher avarange!
+
+★Eintritt ab Level 20!
+
+★aktive und loyale Mitglieder!
+★gute Spender!
+
+〓JOIN"
+        ["DATE"]=>
+        float(1354740232025)
+        ["FROM"]=>
+        object(stdClass)#241 (5) {
+          ["LV"]=>
+          int(29)
+          ["NAME"]=>
+          string(8) "Tommy me"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY5NKiwAIM"
+          ["SKIN"]=>
+          int(10)
+          ["LOC"]=>
+          string(2) "GB"
+        }
+        ["KEY"]=>
+        string(53) "1354740232025agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY5NKiwAIM"
+      }
+      [1]=>
+      object(stdClass)#242 (4) {
+        ["MSG"]=>
+        string(200) "join KAOTIC guild we have one mine open and we also have gold armor and yellow lazer word + blue and orange for every one to bit now we are working on getting second mine only need 4 more people HURRY"
+        ["DATE"]=>
+        float(1354740131715)
+        ["FROM"]=>
+        object(stdClass)#243 (5) {
+          ["LV"]=>
+          int(35)
+          ["NAME"]=>
+          string(12) "nongnuang999"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY-IGA2gIM"
+          ["SKIN"]=>
+          int(33)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354740131715agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY-IGA2gIM"
+      }
+      [2]=>
+      object(stdClass)#244 (4) {
+        ["MSG"]=>
+        string(199) "An alle..!!!
+Die Gilde
+Burnin' and Lootin'
+sucht noch aktive Member 
+
+Wir bieten
+-gute loyale Member
+-einen Tower
+-4 cristall mienen
+-kurze wartezeiten
+
+Zurzeit akzeptieren wir alle Level 
+joint now!"
+        ["DATE"]=>
+        float(1354740088175)
+        ["FROM"]=>
+        object(stdClass)#245 (5) {
+          ["LV"]=>
+          int(40)
+          ["NAME"]=>
+          string(7) "Nejem95"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYgJTz8wEM"
+          ["SKIN"]=>
+          int(30)
+          ["LOC"]=>
+          string(2) "DE"
+        }
+        ["KEY"]=>
+        string(53) "1354740088175agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYgJTz8wEM"
+      }
+      [3]=>
+      object(stdClass)#246 (4) {
+        ["MSG"]=>
+        string(130) "Join God Status
+30+ Only
+Cheap Crystals
+Short waiting list
+40+ 50% discount on all crystals and gems
+45+ everything free
+Join now!"
+        ["DATE"]=>
+        float(1354740025061)
+        ["FROM"]=>
+        object(stdClass)#247 (5) {
+          ["LV"]=>
+          int(40)
+          ["NAME"]=>
+          string(13) "NamelessGuest"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY-_7fnAIM"
+          ["SKIN"]=>
+          int(21)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354740025061agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY-_7fnAIM"
+      }
+      [4]=>
+      object(stdClass)#248 (4) {
+        ["MSG"]=>
+        string(161) "XISTENCE is lookin for 40+ mem all is open bid except blues so no waiting lists! we r rank #95 and have 5 mines running always and have spitfire tower join now! "
+        ["DATE"]=>
+        float(1354739977816)
+        ["FROM"]=>
+        object(stdClass)#249 (5) {
+          ["LV"]=>
+          int(50)
+          ["NAME"]=>
+          string(9) "cutejay27"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY977ypgEM"
+          ["SKIN"]=>
+          int(40)
+          ["LOC"]=>
+          string(2) "GB"
+        }
+        ["KEY"]=>
+        string(53) "1354739977816agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY977ypgEM"
+      }
+      [5]=>
+      object(stdClass)#250 (4) {
+        ["MSG"]=>
+        string(191) "JOIN HACKERZSZ LOL (NOT REQL HACKERZ 1 MORE PERSONE AND A LIL MORE IRON WE CAN HAVE A CRYSTAL MINE WHEN WE DO FREE CRYSTALS AND ANY LV ALOD AND U CAN BID FOR ANY THING (MY CAPS LOCK IS STUCK)"
+        ["DATE"]=>
+        float(1354739971092)
+        ["FROM"]=>
+        object(stdClass)#251 (5) {
+          ["LV"]=>
+          int(28)
+          ["NAME"]=>
+          string(12) "andrewmj2002"
+          ["KEY"]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYhdDhEgw"
+          ["SKIN"]=>
+          int(22)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(52) "1354739971092agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYhdDhEgw"
+      }
+      [6]=>
+      object(stdClass)#252 (4) {
+        ["MSG"]=>
+        string(125) "hi everybody join TheAnonymous we are only 2 members i know we suck but if u help us we can be strong and make a crystal mine"
+        ["DATE"]=>
+        float(1354739913612)
+        ["FROM"]=>
+        object(stdClass)#253 (5) {
+          ["LV"]=>
+          int(32)
+          ["NAME"]=>
+          string(11) "PungKliarn7"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY5v3orgEM"
+          ["SKIN"]=>
+          int(28)
+          ["LOC"]=>
+          string(2) "SE"
+        }
+        ["KEY"]=>
+        string(53) "1354739913612agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY5v3orgEM"
+      }
+      [7]=>
+      object(stdClass)#254 (4) {
+        ["MSG"]=>
+        string(152) "Join Unlimited Pros!!!! Average Level 27 Highest Levels are admin!!!! Accepting 20+ One new crystal mine and SUPER CHEAP CRYSTALS!!!! Join Now!!!!!!!!!!"
+        ["DATE"]=>
+        float(1354739786202)
+        ["FROM"]=>
+        object(stdClass)#255 (5) {
+          ["LV"]=>
+          int(35)
+          ["NAME"]=>
+          string(14) "xProxUnlimited"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYnqb-uwIM"
+          ["SKIN"]=>
+          int(8)
+          ["LOC"]=>
+          string(2) "AQ"
+        }
+        ["KEY"]=>
+        string(53) "1354739786202agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYnqb-uwIM"
+      }
+      [8]=>
+      object(stdClass)#256 (4) {
+        ["MSG"]=>
+        string(216) "☆kommt zu:" Battler!!! ;)"☆
+☆warum?☆
+
+★1 Miene!
+★zweite kann gebaut werden!
+
+★hoher leader level!
+★hoher avarange!
+
+★Eintritt ab Level 20!
+
+★aktive und loyale Mitglieder!
+★gute Spender!
+
+〓JOIN"
+        ["DATE"]=>
+        float(1354739777567)
+        ["FROM"]=>
+        object(stdClass)#257 (5) {
+          ["LV"]=>
+          int(30)
+          ["NAME"]=>
+          string(7) "Star500"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYxPmqwAIM"
+          ["SKIN"]=>
+          int(41)
+          ["LOC"]=>
+          string(2) "DE"
+        }
+        ["KEY"]=>
+        string(53) "1354739777567agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYxPmqwAIM"
+      }
+      [9]=>
+      object(stdClass)#258 (4) {
+        ["MSG"]=>
+        string(174) "Join, Restricted Areas
+-Recruiting all lvl30+
+-looking for 45+ admin
+-cheap crystals
+-no waiting list
+-30+ alts 24/7
+-active leader/admin
+-tier 1 tower, 2 gem 1 crystal mines"
+        ["DATE"]=>
+        float(1354739771093)
+        ["FROM"]=>
+        object(stdClass)#259 (5) {
+          ["LV"]=>
+          int(46)
+          ["NAME"]=>
+          string(7) "james_m"
+          ["KEY"]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYsOW-Lww"
+          ["SKIN"]=>
+          int(6)
+          ["LOC"]=>
+          string(2) "GB"
+        }
+        ["KEY"]=>
+        string(52) "1354739771093agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYsOW-Lww"
+      }
+      [10]=>
+      object(stdClass)#260 (4) {
+        ["MSG"]=>
+        string(198) "join my guild "the reaction"
+
+2 crystal mines
+
+27 activ friendly members / leader
+
+help as good as i can
+
+daily wars
+
+english / german speaking
+
+your lvl 25+ activ friendly and loyal?
+come to us :-)"
+        ["DATE"]=>
+        float(1354739643466)
+        ["FROM"]=>
+        object(stdClass)#261 (5) {
+          ["LV"]=>
+          int(37)
+          ["NAME"]=>
+          string(8) "spygreen"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYlrGJkQIM"
+          ["SKIN"]=>
+          int(37)
+          ["LOC"]=>
+          string(2) "AT"
+        }
+        ["KEY"]=>
+        string(53) "1354739643466agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYlrGJkQIM"
+      }
+      [11]=>
+      object(stdClass)#262 (4) {
+        ["MSG"]=>
+        string(193) "selling this account...i have full gold armor weapons upgraded with orange...1 purple and 3 blue crystals in bag...73 diamonds pets are at 1 star each...and 400 iron 200+ other mats and 5 mines"
+        ["DATE"]=>
+        float(1354739638679)
+        ["FROM"]=>
+        object(stdClass)#263 (5) {
+          ["LV"]=>
+          int(38)
+          ["NAME"]=>
+          string(8) "The Koji"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYpturxwIM"
+          ["SKIN"]=>
+          int(22)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354739638679agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYpturxwIM"
+      }
+      [12]=>
+      object(stdClass)#264 (4) {
+        ["MSG"]=>
+        string(200) "FlyAngel
+
+• Nette, Deutsche hilfreiche Gilde ! :)
+• Jedes Level ist Willkommen! 
+• Miene wieder Unterwegs!
+• Kurze Wartezeiten :-)
+
+Schaut einfach in die Description & Folgt der gilde!
+ <3 :-)"
+        ["DATE"]=>
+        float(1354739520454)
+        ["FROM"]=>
+        object(stdClass)#265 (5) {
+          ["LV"]=>
+          int(36)
+          ["NAME"]=>
+          string(7) "elTurko"
+          ["KEY"]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIY95P8Www"
+          ["SKIN"]=>
+          int(37)
+          ["LOC"]=>
+          string(2) "DE"
+        }
+        ["KEY"]=>
+        string(52) "1354739520454agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIY95P8Www"
+      }
+      [13]=>
+      object(stdClass)#266 (4) {
+        ["MSG"]=>
+        string(168) "Not going to advertise my guild. I know that no one will join anyway ^^ .
+
+Soo,
+Why so serious? Get your crayon! x3 .
+Wuwuwuwu! Lol.
+
+(And there,my boredom strikes ._.)"
+        ["DATE"]=>
+        float(1354739478843)
+        ["FROM"]=>
+        object(stdClass)#267 (5) {
+          ["LV"]=>
+          int(46)
+          ["NAME"]=>
+          string(4) "Nura"
+          ["KEY"]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIY1Z-tMAw"
+          ["SKIN"]=>
+          int(41)
+          ["LOC"]=>
+          string(2) "MY"
+        }
+        ["KEY"]=>
+        string(52) "1354739478843agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIY1Z-tMAw"
+      }
+      [14]=>
+      object(stdClass)#268 (4) {
+        ["MSG"]=>
+        string(202) "--- DUBWAR ---
+¤german guild ¤
+-31 Member 
+-1 Kristallmine (zweite folgt demnächst)
+-Leader lvl 42
+-Admins lvl 38 & 41
+-easy target liste lvl 38-45 
+-Whatsappsupport
+- viele farmaccs
+-billige Preise!"
+        ["DATE"]=>
+        float(1354739438015)
+        ["FROM"]=>
+        object(stdClass)#269 (5) {
+          ["LV"]=>
+          int(29)
+          ["NAME"]=>
+          string(9) "Offensive"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYn77piAMM"
+          ["SKIN"]=>
+          int(6)
+          ["LOC"]=>
+          string(2) "DE"
+        }
+        ["KEY"]=>
+        string(53) "1354739438015agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYn77piAMM"
+      }
+      [15]=>
+      object(stdClass)#270 (4) {
+        ["MSG"]=>
+        string(108) "WHO WANTS TO BE ADMIN 
+
+join spartys 2 spots openfor  lv30+ 
+
+join quick gefore its to late
+
+
+
+
+
+
+
+
+JOIN NOW"
+        ["DATE"]=>
+        float(1354739386483)
+        ["FROM"]=>
+        object(stdClass)#271 (5) {
+          ["LV"]=>
+          int(37)
+          ["NAME"]=>
+          string(13) "zachattack314"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYs4bOzwEM"
+          ["SKIN"]=>
+          int(4)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354739386483agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYs4bOzwEM"
+      }
+      [16]=>
+      object(stdClass)#272 (4) {
+        ["MSG"]=>
+        string(120) "Looking for any members to join my guild! No requirements and such. Just need one more member ^_^. Good luck guys/girls."
+        ["DATE"]=>
+        float(1354739299650)
+        ["FROM"]=>
+        object(stdClass)#273 (5) {
+          ["LV"]=>
+          int(35)
+          ["NAME"]=>
+          string(9) "Dread1274"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYnP-nqAIM"
+          ["SKIN"]=>
+          int(34)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354739299650agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYnP-nqAIM"
+      }
+      [17]=>
+      object(stdClass)#274 (4) {
+        ["MSG"]=>
+        string(72) "HeroesMU 
+
+HeroesMU recluta gente para el guild tengo cristales y minas "
+        ["DATE"]=>
+        float(1354739298631)
+        ["FROM"]=>
+        object(stdClass)#275 (5) {
+          ["LV"]=>
+          int(43)
+          ["NAME"]=>
+          string(8) "AantRaxx"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY8KqMpwEM"
+          ["SKIN"]=>
+          int(10)
+          ["LOC"]=>
+          string(2) "MX"
+        }
+        ["KEY"]=>
+        string(53) "1354739298631agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY8KqMpwEM"
+      }
+      [18]=>
+      object(stdClass)#276 (4) {
+        ["MSG"]=>
+        string(199) "Kings Lounge
+
+- almost a mine
+- looking for admins
+- great members and leader
+- cheap crystals
+- highest donater gets 3 free crystals when we get a mine!
+
+P.S. i am looking for a strong lvl 36+ admin"
+        ["DATE"]=>
+        float(1354739291685)
+        ["FROM"]=>
+        object(stdClass)#277 (5) {
+          ["LV"]=>
+          int(36)
+          ["NAME"]=>
+          string(9) "Jango8124"
+          ["KEY"]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIY1o_jSQw"
+          ["SKIN"]=>
+          int(40)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(52) "1354739291685agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIY1o_jSQw"
+      }
+      [19]=>
+      object(stdClass)#278 (4) {
+        ["MSG"]=>
+        string(68) "giving away account for hell ice bow or destroyer....
+or FREE pm me "
+        ["DATE"]=>
+        float(1354739284009)
+        ["FROM"]=>
+        object(stdClass)#279 (5) {
+          ["LV"]=>
+          int(38)
+          ["NAME"]=>
+          string(10) "loneLion13"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYhrebtAEM"
+          ["SKIN"]=>
+          int(6)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354739284009agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYhrebtAEM"
+      }
+      [20]=>
+      object(stdClass)#280 (4) {
+        ["MSG"]=>
+        string(29) "I HAVE A BELL ANYONE WANT IT "
+        ["DATE"]=>
+        float(1354739239890)
+        ["FROM"]=>
+        object(stdClass)#281 (5) {
+          ["LV"]=>
+          int(40)
+          ["NAME"]=>
+          string(8) "Ashealia"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY6d6n6gEM"
+          ["SKIN"]=>
+          int(33)
+          ["LOC"]=>
+          string(2) "IE"
+        }
+        ["KEY"]=>
+        string(53) "1354739239890agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY6d6n6gEM"
+      }
+      [21]=>
+      object(stdClass)#282 (4) {
+        ["MSG"]=>
+        string(75) "full gold armor 96%win looking for guild, need purple crystals, gimme a msg"
+        ["DATE"]=>
+        float(1354739170726)
+        ["FROM"]=>
+        object(stdClass)#283 (5) {
+          ["LV"]=>
+          int(35)
+          ["NAME"]=>
+          string(12) "RO2 The Knee"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYruaHvwIM"
+          ["SKIN"]=>
+          int(40)
+          ["LOC"]=>
+          string(2) "NL"
+        }
+        ["KEY"]=>
+        string(53) "1354739170726agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYruaHvwIM"
+      }
+      [22]=>
+      object(stdClass)#284 (4) {
+        ["MSG"]=>
+        string(198) "Seraph is the guild you've been looking for
+
+- high lvl members
+
+- 2 mines running
+
+- free crystals for lvl 40+
+
+- low donations for below lvl 40
+
+- friendly environment 
+
+1 member short of 3 mines
+"
+        ["DATE"]=>
+        float(1354739162152)
+        ["FROM"]=>
+        object(stdClass)#285 (5) {
+          ["LV"]=>
+          int(51)
+          ["NAME"]=>
+          string(10) "Act of God"
+          ["KEY"]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYmaSQYQw"
+          ["SKIN"]=>
+          int(39)
+          ["LOC"]=>
+          string(2) "DK"
+        }
+        ["KEY"]=>
+        string(52) "1354739162152agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYmaSQYQw"
+      }
+      [23]=>
+      object(stdClass)#286 (4) {
+        ["MSG"]=>
+        string(187) "my guild Cartoon Outlaws™ has free crystals for all!!
+
+only lvl26+ aloud only!! (;
+
+lvl42 leader
+
+join now!! 
+
+only loyal people aloud!! free weapons and armor!! join i say join!! (;
+
+
+"
+        ["DATE"]=>
+        float(1354739155298)
+        ["FROM"]=>
+        object(stdClass)#287 (5) {
+          ["LV"]=>
+          int(42)
+          ["NAME"]=>
+          string(8) "ward fox"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYmMiKnAEM"
+          ["SKIN"]=>
+          int(36)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354739155298agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYmMiKnAEM"
+      }
+      [24]=>
+      object(stdClass)#288 (4) {
+        ["MSG"]=>
+        string(197) "Beatmonk speaking:
+
+Dont you hate when lame guilds try to steal your members? Then brag if they happen to get 1?
+
+The Anti- Avengers     Leader: Leadswillblow
+
+This is an east target guild with Rep"
+        ["DATE"]=>
+        float(1354739142836)
+        ["FROM"]=>
+        object(stdClass)#289 (5) {
+          ["LV"]=>
+          int(38)
+          ["NAME"]=>
+          string(7) "mina130"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYraOU0AEM"
+          ["SKIN"]=>
+          int(3)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354739142836agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYraOU0AEM"
+      }
+      [25]=>
+      object(stdClass)#290 (4) {
+        ["MSG"]=>
+        string(200) "join raining fire
+we have 19 members
+we have 2 crystal mines
+30+ only
+40+ open bid on purple crystals 
+cheap prices for crystals 
+need lvl 48+ admin
+lvl 41 leader
+join us today!!!!!!! :) 
+friends we r"
+        ["DATE"]=>
+        float(1354738998108)
+        ["FROM"]=>
+        object(stdClass)#291 (5) {
+          ["LV"]=>
+          int(38)
+          ["NAME"]=>
+          string(8) "the name"
+          ["KEY"]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYkPyNDgw"
+          ["SKIN"]=>
+          int(34)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(52) "1354738998108agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYkPyNDgw"
+      }
+      [26]=>
+      object(stdClass)#292 (4) {
+        ["MSG"]=>
+        string(187) "my guild Cartoon Outlaws™ has free crystals for all!!
+
+only lvl26+ aloud only!! (;
+
+lvl42 leader
+
+join now!! 
+
+only loyal people aloud!! free weapons and armor!! join i say join!! (;
+
+
+"
+        ["DATE"]=>
+        float(1354738974330)
+        ["FROM"]=>
+        object(stdClass)#293 (5) {
+          ["LV"]=>
+          int(32)
+          ["NAME"]=>
+          string(9) "Hot_Guy__"
+          ["KEY"]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYwKOoPgw"
+          ["SKIN"]=>
+          int(11)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(52) "1354738974330agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYwKOoPgw"
+      }
+      [27]=>
+      object(stdClass)#294 (4) {
+        ["MSG"]=>
+        string(109) "i am a level 42 looking for a guild with free pet gems! i have full upgraded gear and weapon
+please msg me wi"
+        ["DATE"]=>
+        float(1354738931994)
+        ["FROM"]=>
+        object(stdClass)#295 (5) {
+          ["LV"]=>
+          int(42)
+          ["NAME"]=>
+          string(5) "loval"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY5pCr4wIM"
+          ["SKIN"]=>
+          int(41)
+          ["LOC"]=>
+          string(2) "NO"
+        }
+        ["KEY"]=>
+        string(53) "1354738931994agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY5pCr4wIM"
+      }
+      [28]=>
+      object(stdClass)#296 (4) {
+        ["MSG"]=>
+        string(197) "hallo leute wir sind eine gilde die noch am anfang steht und brauchen member wir jeder kann sich in der liega anmelden und mitmachen also wenn ihr bock habt kommt doch mal in der heldengilde vorbei"
+        ["DATE"]=>
+        float(1354738803278)
+        ["FROM"]=>
+        object(stdClass)#297 (5) {
+          ["LV"]=>
+          int(33)
+          ["NAME"]=>
+          string(13) "garnichtsgibs"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYxcSSsgIM"
+          ["SKIN"]=>
+          int(30)
+          ["LOC"]=>
+          string(2) "DE"
+        }
+        ["KEY"]=>
+        string(53) "1354738803278agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYxcSSsgIM"
+      }
+      [29]=>
+      object(stdClass)#298 (4) {
+        ["MSG"]=>
+        string(194) "Hey beautiful people I am currently in a guild but I am looking for one that will sell me chrome or gold armor at a cheap price... Message me if you know of or are apart of a gulid that does so."
+        ["DATE"]=>
+        float(1354738775104)
+        ["FROM"]=>
+        object(stdClass)#299 (5) {
+          ["LV"]=>
+          int(33)
+          ["NAME"]=>
+          string(13) "Sx gas prices"
+          ["KEY"]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYv8KrXQw"
+          ["SKIN"]=>
+          int(40)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(52) "1354738775104agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYv8KrXQw"
+      }
+      [30]=>
+      object(stdClass)#300 (4) {
+        ["MSG"]=>
+        string(81) "Ich suchen einen acc zum kaufen :) wer seinen fair verkaufen will msg an mir :)!!"
+        ["DATE"]=>
+        float(1354738693026)
+        ["FROM"]=>
+        object(stdClass)#301 (5) {
+          ["LV"]=>
+          int(29)
+          ["NAME"]=>
+          string(11) "Azzlack,Wtf"
+          ["KEY"]=>
+          string(39) "agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYt_e3CAw"
+          ["SKIN"]=>
+          int(5)
+          ["LOC"]=>
+          string(2) "DE"
+        }
+        ["KEY"]=>
+        string(52) "1354738693026agpzfmF2YWZpZ2h0cg8LEgZBdmF0YXIYt_e3CAw"
+      }
+      [31]=>
+      object(stdClass)#302 (4) {
+        ["MSG"]=>
+        string(148) "hola busco clan latino que me pueda ayuda soy nivel 30 y el que quiera que me una envienme un mensaje y soy muy activo :) gracias por su cooperacion"
+        ["DATE"]=>
+        float(1354738586448)
+        ["FROM"]=>
+        object(stdClass)#303 (5) {
+          ["LV"]=>
+          int(30)
+          ["NAME"]=>
+          string(8) "Dark0214"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYo46YhQMM"
+          ["SKIN"]=>
+          int(17)
+          ["LOC"]=>
+          string(2) "PR"
+        }
+        ["KEY"]=>
+        string(53) "1354738586448agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYo46YhQMM"
+      }
+      [32]=>
+      object(stdClass)#304 (4) {
+        ["MSG"]=>
+        string(200) "Hello everyone, my guild is very small but we have potential, accepting all players of any level :)
+if you can, try to donate mats
+free blue crystals for a day when we get a crystal mine
+
+
+
+
+Join H3RO"
+        ["DATE"]=>
+        float(1354738572669)
+        ["FROM"]=>
+        object(stdClass)#305 (5) {
+          ["LV"]=>
+          int(31)
+          ["NAME"]=>
+          string(8) "Liltox22"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYlPeAnAEM"
+          ["SKIN"]=>
+          int(38)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354738572669agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYlPeAnAEM"
+      }
+      [33]=>
+      object(stdClass)#306 (4) {
+        ["MSG"]=>
+        string(176) "join my guild i just got a crystal mine a while back i have a purple and a orange in the inventory but u must donate to get in I'm looking for strong, active and loyal members "
+        ["DATE"]=>
+        float(1354738565182)
+        ["FROM"]=>
+        object(stdClass)#307 (5) {
+          ["LV"]=>
+          int(33)
+          ["NAME"]=>
+          string(16) "deadlist warrior"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYnImY4AIM"
+          ["SKIN"]=>
+          int(28)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354738565182agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYnImY4AIM"
+      }
+      [34]=>
+      object(stdClass)#308 (4) {
+        ["MSG"]=>
+        string(129) "PH3OΠIX
+
+★3 crystal mines
+
+★84 members
+
+★join
+
+★all crystals are free
+
+★27+
+
+★I hope to see you there! :D
+
+PH3OΠIX "
+        ["DATE"]=>
+        float(1354738527948)
+        ["FROM"]=>
+        object(stdClass)#309 (5) {
+          ["LV"]=>
+          int(27)
+          ["NAME"]=>
+          string(8) "chris211"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY5YHZgAIM"
+          ["SKIN"]=>
+          int(28)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354738527948agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY5YHZgAIM"
+      }
+      [35]=>
+      object(stdClass)#310 (4) {
+        ["MSG"]=>
+        string(120) "HI WORLD PLZZ JOIN >$hattered<>d®eam$< Y?
+
+FREE CRYSTELS
+
+28 members
+
+friendly adims
+
+accepting 25+
+
+pm me and plz join"
+        ["DATE"]=>
+        float(1354738523379)
+        ["FROM"]=>
+        object(stdClass)#311 (5) {
+          ["LV"]=>
+          int(35)
+          ["NAME"]=>
+          string(7) "snipo49"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYkf_I_AEM"
+          ["SKIN"]=>
+          int(8)
+          ["LOC"]=>
+          string(2) "CA"
+        }
+        ["KEY"]=>
+        string(53) "1354738523379agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYkf_I_AEM"
+      }
+      [36]=>
+      object(stdClass)#312 (4) {
+        ["MSG"]=>
+        string(206) "join hell of fire.
+
+FREE CRYSTALS
+FREE GEMS
+
+(Its open bid, highest bidder wins)
+
+•55+ loyal members
+•Always mines running
+•Active wall and discusion
+
+join hell of fire!!
+(unused acc? Give it to me)
+
+"
+        ["DATE"]=>
+        float(1354738470590)
+        ["FROM"]=>
+        object(stdClass)#313 (5) {
+          ["LV"]=>
+          int(33)
+          ["NAME"]=>
+          string(8) "pedobank"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYgOzszAIM"
+          ["SKIN"]=>
+          int(23)
+          ["LOC"]=>
+          string(2) "NL"
+        }
+        ["KEY"]=>
+        string(53) "1354738470590agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYgOzszAIM"
+      }
+      [37]=>
+      object(stdClass)#314 (4) {
+        ["MSG"]=>
+        string(208) "PH3OΠIX
+
+★3 crystal mines
+
+★84 members/need more members!
+
+★27+
+
+★for all the members that is in PH3OΠIX I thank you all for joining :D
+
+★All crystals are free
+
+★DO NOT MISS OUT!
+
+Join PH3OΠIX "
+        ["DATE"]=>
+        float(1354738409228)
+        ["FROM"]=>
+        object(stdClass)#315 (5) {
+          ["LV"]=>
+          int(27)
+          ["NAME"]=>
+          string(8) "chris215"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYkZig-gEM"
+          ["SKIN"]=>
+          int(23)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354738409228agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYkZig-gEM"
+      }
+      [38]=>
+      object(stdClass)#316 (4) {
+        ["MSG"]=>
+        string(122) "Join My Guild TagaMaui2306...All Level Are Welcome...Join Now TagaMaui2306...TagaMaui2306...TagaMaui2306...TagaMaui2306..."
+        ["DATE"]=>
+        float(1354738358749)
+        ["FROM"]=>
+        object(stdClass)#317 (5) {
+          ["LV"]=>
+          int(44)
+          ["NAME"]=>
+          string(11) "Alapaap2618"
+          ["KEY"]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYoPOE2wEM"
+          ["SKIN"]=>
+          int(33)
+          ["LOC"]=>
+          string(2) "US"
+        }
+        ["KEY"]=>
+        string(53) "1354738358749agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYoPOE2wEM"
+      }
+    }
+    ["ML"]=>
+    array(20) {
+      [0]=>
+      object(stdClass)#318 (4) {
+        ["MSG"]=>
+        string(41) "keoune1 challenged you. You beat keoune1."
+        ["DATE"]=>
+        float(1354738357783)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY5PHxkAMM"
+          [1]=>
+          string(7) "keoune1"
+          [2]=>
+          string(9) "954076842"
+          [3]=>
+          string(2) "21"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [1]=>
+      object(stdClass)#319 (4) {
+        ["MSG"]=>
+        string(53) "estertor challenged you. You were beaten by estertor."
+        ["DATE"]=>
+        float(1354738367117)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYo-_vtwMM"
+          [1]=>
+          string(8) "estertor"
+          [2]=>
+          string(9) "954146725"
+          [3]=>
+          string(2) "10"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [2]=>
+      object(stdClass)#320 (4) {
+        ["MSG"]=>
+        string(47) "ruuk3 challenged you. You were beaten by ruuk3."
+        ["DATE"]=>
+        float(1354738368780)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY5r6qrQIM"
+          [1]=>
+          string(5) "ruuk3"
+          [2]=>
+          string(9) "954097870"
+          [3]=>
+          string(2) "21"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [3]=>
+      object(stdClass)#321 (4) {
+        ["MSG"]=>
+        string(45) "sakersito challenged you. You beat sakersito."
+        ["DATE"]=>
+        float(1354738379898)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY5t_qqAMM"
+          [1]=>
+          string(9) "sakersito"
+          [2]=>
+          string(9) "954193465"
+          [3]=>
+          string(1) "8"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [4]=>
+      object(stdClass)#322 (4) {
+        ["MSG"]=>
+        string(61) "bravocharlie challenged you. You were beaten by bravocharlie."
+        ["DATE"]=>
+        float(1354738450161)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYnoTAtwMM"
+          [1]=>
+          string(12) "bravocharlie"
+          [2]=>
+          string(9) "954135802"
+          [3]=>
+          string(2) "21"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [5]=>
+      object(stdClass)#323 (4) {
+        ["MSG"]=>
+        string(53) "Teufel11 challenged you. You were beaten by Teufel11."
+        ["DATE"]=>
+        float(1354738463134)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY54GFsQMM"
+          [1]=>
+          string(8) "Teufel11"
+          [2]=>
+          string(9) "953953138"
+          [3]=>
+          string(2) "21"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [6]=>
+      object(stdClass)#324 (4) {
+        ["MSG"]=>
+        string(51) "jjoossee8877 challenged you. You beat jjoossee8877."
+        ["DATE"]=>
+        float(1354738474444)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYz97EuQMM"
+          [1]=>
+          string(12) "jjoossee8877"
+          [2]=>
+          string(9) "954103920"
+          [3]=>
+          string(1) "8"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [7]=>
+      object(stdClass)#325 (4) {
+        ["MSG"]=>
+        string(47) "Djih2 challenged you. You were beaten by Djih2."
+        ["DATE"]=>
+        float(1354738513967)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY8r7rpgMM"
+          [1]=>
+          string(5) "Djih2"
+          [2]=>
+          string(9) "954217459"
+          [3]=>
+          string(2) "21"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [8]=>
+      object(stdClass)#326 (4) {
+        ["MSG"]=>
+        string(35) "klz2 challenged you. You beat klz2."
+        ["DATE"]=>
+        float(1354738586305)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYnpqXugMM"
+          [1]=>
+          string(4) "klz2"
+          [2]=>
+          string(9) "953965154"
+          [3]=>
+          string(1) "8"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [9]=>
+      object(stdClass)#327 (4) {
+        ["MSG"]=>
+        string(45) "Freshling challenged you. You beat Freshling."
+        ["DATE"]=>
+        float(1354738646031)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY787buwMM"
+          [1]=>
+          string(9) "Freshling"
+          [2]=>
+          string(9) "954174569"
+          [3]=>
+          string(1) "1"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [10]=>
+      object(stdClass)#328 (4) {
+        ["MSG"]=>
+        string(49) "Jmoney62993 challenged you. You beat Jmoney62993."
+        ["DATE"]=>
+        float(1354738654587)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYj6LDogMM"
+          [1]=>
+          string(11) "Jmoney62993"
+          [2]=>
+          string(9) "954098995"
+          [3]=>
+          string(2) "38"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [11]=>
+      object(stdClass)#329 (4) {
+        ["MSG"]=>
+        string(39) "knuth7 challenged you. You beat knuth7."
+        ["DATE"]=>
+        float(1354738671118)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYhteKpgMM"
+          [1]=>
+          string(6) "knuth7"
+          [2]=>
+          string(9) "954170758"
+          [3]=>
+          string(1) "5"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [12]=>
+      object(stdClass)#330 (4) {
+        ["MSG"]=>
+        string(55) "powerpuffgirlz challenged you. You beat powerpuffgirlz."
+        ["DATE"]=>
+        float(1354738671371)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYyorNpAMM"
+          [1]=>
+          string(14) "powerpuffgirlz"
+          [2]=>
+          string(9) "954104001"
+          [3]=>
+          string(2) "25"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [13]=>
+      object(stdClass)#331 (4) {
+        ["MSG"]=>
+        string(47) "JUNIT challenged you. You were beaten by JUNIT."
+        ["DATE"]=>
+        float(1354738677434)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYrd7SuAMM"
+          [1]=>
+          string(5) "JUNIT"
+          [2]=>
+          string(9) "954269394"
+          [3]=>
+          string(1) "1"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [14]=>
+      object(stdClass)#332 (4) {
+        ["MSG"]=>
+        string(41) "raytoy9 challenged you. You beat raytoy9."
+        ["DATE"]=>
+        float(1354738728642)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYjZugjQMM"
+          [1]=>
+          string(7) "raytoy9"
+          [2]=>
+          string(9) "954235544"
+          [3]=>
+          string(1) "7"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [15]=>
+      object(stdClass)#333 (4) {
+        ["MSG"]=>
+        string(39) "GaMeR9 challenged you. You beat GaMeR9."
+        ["DATE"]=>
+        float(1354738798768)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYjNGEowMM"
+          [1]=>
+          string(6) "GaMeR9"
+          [2]=>
+          string(9) "954144969"
+          [3]=>
+          string(1) "1"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [16]=>
+      object(stdClass)#334 (4) {
+        ["MSG"]=>
+        string(47) "SitA_Korps challenged you. You beat SitA_Korps."
+        ["DATE"]=>
+        float(1354738827351)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY2tCZogMM"
+          [1]=>
+          string(10) "SitA_Korps"
+          [2]=>
+          string(9) "954173611"
+          [3]=>
+          string(1) "8"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [17]=>
+      object(stdClass)#335 (4) {
+        ["MSG"]=>
+        string(39) "fritsy challenged you. You beat fritsy."
+        ["DATE"]=>
+        float(1354738866390)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIY0J6frQMM"
+          [1]=>
+          string(6) "fritsy"
+          [2]=>
+          string(9) "954100109"
+          [3]=>
+          string(2) "10"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [18]=>
+      object(stdClass)#336 (4) {
+        ["MSG"]=>
+        string(51) "VivaLaSensor challenged you. You beat VivaLaSensor."
+        ["DATE"]=>
+        float(1354739936259)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYr5mVuAMM"
+          [1]=>
+          string(12) "VivaLaSensor"
+          [2]=>
+          string(9) "954286806"
+          [3]=>
+          string(2) "10"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+      [19]=>
+      object(stdClass)#337 (4) {
+        ["MSG"]=>
+        string(45) "ALex48⅝ challenged you. You beat ALex48⅝."
+        ["DATE"]=>
+        float(1354739989593)
+        ["PRM"]=>
+        array(4) {
+          [0]=>
+          string(40) "agpzfmF2YWZpZ2h0chALEgZBdmF0YXIYxYmBqAMM"
+          [1]=>
+          string(9) "ALex48⅝"
+          [2]=>
+          string(9) "954273121"
+          [3]=>
+          string(2) "19"
+        }
+        ["TYPE"]=>
+        int(1)
+      }
+    }
+    ["TS"]=>
+    float(1354740237656)
+  }
+}
